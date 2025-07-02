@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "b97e7def53fde94a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b327129230e68c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef86e01c1b70e8c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "goDsa/DSA Course Pathway - From Foundation to Advanced/Module 2/2.3 How to Analyze Code.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3 How to Analyze Code"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b56d648da8d13822",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8371a2485753944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2de609ed0b141684",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "87d24c60b882d5f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "10437605a2533405",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8534822b61bea9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bed10e0d1db41af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2db30cad1c887ae1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "goDsa/DSA Course Pathway - From Foundation to Advanced/Module 2/2.3 How to Analyze Code.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2.3 How to Analyze Code"
+            }
+          },
+          {
+            "id": "00c701d8afe597b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "goDsa/DSA Course Pathway - From Foundation to Advanced/Module 2/2.3 How to Analyze Code.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2.3 How to Analyze Code"
+            }
+          },
+          {
+            "id": "a77342bba468cf34",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "26a24f78daa8a63f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "goDsa/DSA Course Pathway - From Foundation to Advanced/Module 2/2.3 How to Analyze Code.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2.3 How to Analyze Code"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "ef86e01c1b70e8c5",
+  "lastOpenFiles": [
+    "Max/5-Structs and Custom Types/81. Introduction Methods/structs.go",
+    "Max/5-Structs and Custom Types/81. Introduction Methods/go.mod",
+    "Max/5-Structs and Custom Types/81. Introduction Methods",
+    "Max/5-Structs and Custom Types/01-starting-project-Structs-and-Custom-Types - Copy/structs.go",
+    "Max/5-Structs and Custom Types/01-starting-project-Structs-and-Custom-Types - Copy/go.mod",
+    "Max/5-Structs and Custom Types/01-starting-project-Structs-and-Custom-Types - Copy",
+    "Max/5-Structs and Custom Types/01-starting-project-Structs-and-Custom-Types/structs.go",
+    "Max/5-Structs and Custom Types/01-starting-project-Structs-and-Custom-Types/go.mod",
+    "Max/5-Structs and Custom Types/01-starting-project-Structs-and-Custom-Types",
+    "Max/5-Structs and Custom Types/01-starting-project-Structs and Custom Types/structs.go",
+    "Max/5-Structs and Custom Types/01-starting-project-Structs and Custom Types/go.mod",
+    "goDsa/DSA Course Pathway - From Foundation to Advanced/0. DSA Course Pathway - From Foundation to Advanced/DSA Course Pathway - From Foundation to Advanced.md",
+    "goDsa/DSA Course Pathway - From Foundation to Advanced/Module 2/2.3 How to Analyze Code.md",
+    "goDsa/DSA Course Pathway - From Foundation to Advanced/Module 2/2.2 The Common Runtimes.md",
+    "goDsa/DSA Course Pathway - From Foundation to Advanced/Module 2/2.1 Big O Core Concepts.md",
+    "goDsa/DSA Course Pathway - From Foundation to Advanced/Bubble sort.md",
+    "Neetcode/NeetcodeALL/1.Array & Hashing/1. Easy/0. Contain duplicate.md",
+    "Neetcode/NeetcodeALL/1.Array & Hashing/1. Easy/1. Contain Duplicate 0.md",
+    "Neetcode/NeetcodeALL/1.Array & Hashing/1. Easy/1. Contain Duplicate 1.md",
+    "Neetcode/NeetcodeALL/1.Array & Hashing/1. Easy/2. Valid Anagram 1.md",
+    "Neetcode/NeetcodeALL/1.Array & Hashing/1. Easy/2.  Valid Anagram 0.md",
+    "Neetcode/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
+    "Neetcode/Neetcode150/3. Stack/2. Medium/10. Car Fleet.md",
+    "Neetcode/Neetcode150/3. Stack/2. Medium/6. Generate parentheses.md",
+    "Neetcode/Neetcode150/3. Stack/2. Medium/4. Min stack.md",
+    "Neetcode/Neetcode150/3. Stack/1. Easy/1. Valid Parentheses.md",
+    "Neetcode/Neetcode150/2. Two Pointers/3. Hard/17. Trapping rain water.md",
+    "Neetcode/Neetcode150/2. Two Pointers/1. Easy/2. Valid Palindrom II.md",
+    "Neetcode/Neetcode150/2. Two Pointers/1. Easy/1. Valid Palindrome.md",
+    "Neetcode/Neetcode150/1.Array & Hashing/1. Easy/1. Contain Duplicate 0.md",
+    "Neetcode/Neetcode150/1.Array & Hashing/1. Easy/7. Two Sum.md",
+    "Neetcode/Neetcode150/1.Array & Hashing/1. Easy/2. Valid Anagram 1.md",
+    "Neetcode/Neetcode150/1.Array & Hashing/1. Easy/2.  Valid Anagram 0.md",
+    "Neetcode/Neetcode150/1.Array & Hashing/1. Easy/1. Contain Duplicate 2.md",
+    "Neetcode/Neetcode150/1.Array & Hashing/1. Easy/1. Contain Duplicate 1.md",
+    "Neetcode/Neetcode150/0. Roadmap/0. Roadmap.canvas",
+    "Neetcode/NeetcodeALL/5. Sliding Window/3. Hard/Sliding window maximum.md",
+    "Neetcode/NeetcodeALL/5. Sliding Window/3. Hard/Minimum window substring.md",
+    "Neetcode150/0. Roadmap/0. Roadmap.canvas",
+    "NeetcodeALL/0. Roadmap/0. Roadmap.canvas"
+  ]
+}
