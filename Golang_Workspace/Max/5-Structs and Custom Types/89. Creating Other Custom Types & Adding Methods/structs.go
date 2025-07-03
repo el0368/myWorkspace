@@ -15,24 +15,20 @@ func main() {
 	var appUser *user.User
 
 	// This is the null value
-	// appUser = user {} 
+	// appUser = user {}
 
-	appUser, err := user.NewUser(userFirstName, userLastName, userBirthdate)
+	appUser, err := user.New(userFirstName, userLastName, userBirthdate)
 
 	if err != nil {
 		fmt.Println(err)
 		return
 	}
-	
-	// Alternative
-	// appUser = user {
-	// 	userFirstName,
-	// 	userLastName,
-	// 	userBirthdate,
-	// 	time.Now(),
-	// }
 
-	// ... do something awesome with that gathered data!
+admin := user.NewAdmin("test@example.com", "test123")
+
+admin.OutputUserDetails()
+admin.ClearUserName()
+admin.OutputUserDetails()
 
 appUser.OutputUserDetails()
 appUser.ClearUserName()

@@ -17,7 +17,7 @@ func main() {
 	// This is the null value
 	// appUser = user {} 
 
-	appUser, err := user.NewUser(userFirstName, userLastName, userBirthdate)
+	appUser, err := user.New(userFirstName, userLastName, userBirthdate)
 
 	if err != nil {
 		fmt.Println(err)
