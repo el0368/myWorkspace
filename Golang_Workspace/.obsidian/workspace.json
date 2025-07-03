@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "goDsa/DSA Course Pathway - From Foundation to Advanced/Module 2/2.3 How to Analyze Code.md",
+                "file": "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/0. Note/0. Summarize my own words.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3 How to Analyze Code"
+              "title": "0. Summarize my own words"
             }
           }
         ]
@@ -160,31 +160,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "ef86e01c1b70e8c5",
   "lastOpenFiles": [
-    "Max/5-Structs and Custom Types/81. Introduction Methods/structs.go",
-    "Max/5-Structs and Custom Types/81. Introduction Methods/go.mod",
-    "Max/5-Structs and Custom Types/81. Introduction Methods",
-    "Max/5-Structs and Custom Types/01-starting-project-Structs-and-Custom-Types - Copy/structs.go",
-    "Max/5-Structs and Custom Types/01-starting-project-Structs-and-Custom-Types - Copy/go.mod",
-    "Max/5-Structs and Custom Types/01-starting-project-Structs-and-Custom-Types - Copy",
-    "Max/5-Structs and Custom Types/01-starting-project-Structs-and-Custom-Types/structs.go",
-    "Max/5-Structs and Custom Types/01-starting-project-Structs-and-Custom-Types/go.mod",
-    "Max/5-Structs and Custom Types/01-starting-project-Structs-and-Custom-Types",
-    "Max/5-Structs and Custom Types/01-starting-project-Structs and Custom Types/structs.go",
-    "Max/5-Structs and Custom Types/01-starting-project-Structs and Custom Types/go.mod",
-    "goDsa/DSA Course Pathway - From Foundation to Advanced/0. DSA Course Pathway - From Foundation to Advanced/DSA Course Pathway - From Foundation to Advanced.md",
+    "Max/5-Structs and Custom Types/85. Structs, Packages & Exports/structs.go",
+    "Max/5-Structs and Custom Types/85. Structs, Packages & Exports/go.mod",
+    "Max/5-Structs and Custom Types/85. Structs, Packages & Exports",
+    "Max/5-Structs and Custom Types/84. Using Constructor Functions For Validation - Copy/structs.go",
+    "Max/5-Structs and Custom Types/84. Using Constructor Functions For Validation - Copy/go.mod",
+    "Max/5-Structs and Custom Types/84. Using Constructor Functions For Validation - Copy",
+    "Max/5-Structs and Custom Types/84. Using Constructor Functions For Validation/structs.go",
+    "Max/5-Structs and Custom Types/84. Using Constructor Functions For Validation/go.mod",
+    "Max/5-Structs and Custom Types/84. Using Constructor Functions For Validation",
+    "Max/5-Structs and Custom Types/83. Using Creation-Constructor Functions - Copy/structs.go",
+    "Max/5-Structs and Custom Types/83. Using Creation-Constructor Functions - Copy/go.mod",
+    "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1. Module 1.md",
+    "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.8.1. Understanding Data Formats - Plain Text, XML, and JSON.md",
+    "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 2 Inside the Kitchen - Making Your Food/2.1. From Ordering to Eating (The Request-Response Lifecycle).md",
+    "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 3 The Restaurant's Recipe Book/3.3. The Magical Translator (ORMs-ODMs).md",
+    "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 3 The Restaurant's Recipe Book/3.4. Checking the Ingredients (Data Validation).md",
+    "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 5/5.1 The Person at the Door (Middleware).md",
+    "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 5/5.2 What the Helper Does (Middleware Use Cases).md",
     "goDsa/DSA Course Pathway - From Foundation to Advanced/Module 2/2.3 How to Analyze Code.md",
+    "goDsa/DSA Course Pathway - From Foundation to Advanced/0. DSA Course Pathway - From Foundation to Advanced/DSA Course Pathway - From Foundation to Advanced.md",
     "goDsa/DSA Course Pathway - From Foundation to Advanced/Module 2/2.2 The Common Runtimes.md",
     "goDsa/DSA Course Pathway - From Foundation to Advanced/Module 2/2.1 Big O Core Concepts.md",
     "goDsa/DSA Course Pathway - From Foundation to Advanced/Bubble sort.md",
@@ -202,14 +209,7 @@
     "Neetcode/Neetcode150/2. Two Pointers/1. Easy/2. Valid Palindrom II.md",
     "Neetcode/Neetcode150/2. Two Pointers/1. Easy/1. Valid Palindrome.md",
     "Neetcode/Neetcode150/1.Array & Hashing/1. Easy/1. Contain Duplicate 0.md",
-    "Neetcode/Neetcode150/1.Array & Hashing/1. Easy/7. Two Sum.md",
-    "Neetcode/Neetcode150/1.Array & Hashing/1. Easy/2. Valid Anagram 1.md",
-    "Neetcode/Neetcode150/1.Array & Hashing/1. Easy/2.  Valid Anagram 0.md",
-    "Neetcode/Neetcode150/1.Array & Hashing/1. Easy/1. Contain Duplicate 2.md",
-    "Neetcode/Neetcode150/1.Array & Hashing/1. Easy/1. Contain Duplicate 1.md",
     "Neetcode/Neetcode150/0. Roadmap/0. Roadmap.canvas",
-    "Neetcode/NeetcodeALL/5. Sliding Window/3. Hard/Sliding window maximum.md",
-    "Neetcode/NeetcodeALL/5. Sliding Window/3. Hard/Minimum window substring.md",
     "Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "NeetcodeALL/0. Roadmap/0. Roadmap.canvas"
   ]
