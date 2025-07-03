@@ -22,12 +22,12 @@ func main() {
 	userLastName := getUserData("Please enter your last name: ")
 	userBirthdate := getUserData("Please enter your birthdate (MM/DD/YYYY): ")
 
-	// var appUser user
+	var appUser user
 
 	// This is the null value
 	// appUser = user {} 
 
-	appUser := user {
+	appUser = user {
 		firstName: userFirstName,
 		lastName: userLastName,
 		birthdate: userBirthdate,
@@ -42,7 +42,6 @@ func main() {
 	// 	time.Now(),
 	// }
 
-	// ... do something awesome with that gathered data!
 
 appUser.outputUserDetails()
 
