@@ -28,7 +28,7 @@ func main() {
 	}
 
 
-outputUserDetails(appUser)
+outputUserDetails(appUser) 
 }
 
 func outputUserDetails(u user) {
