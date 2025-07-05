@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/0. Note/0. Summarize my own words.md",
-                "mode": "preview",
+                "file": "Golang-Fundamentals/Data structure and Algorithms/Untitled.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Summarize my own words"
+              "title": "Untitled"
             }
           }
         ]
@@ -172,6 +172,10 @@
   },
   "active": "ef86e01c1b70e8c5",
   "lastOpenFiles": [
+    "goDsa/DSA Course Pathway - From Foundation to Advanced/0. DSA Course Pathway - From Foundation to Advanced/DSA Course Pathway - From Foundation to Advanced.md",
+    "Golang-Fundamentals/Data structure and Algorithms/Untitled.md",
+    "Golang-Fundamentals/Data structure and Algorithms",
+    "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/0. Note/0. Summarize my own words.md",
     "Max/5-Structs and Custom Types/80. Structs & Pointers/structs.go",
     "Max/5-Structs and Custom Types/80. Structs & Pointers/go.mod",
     "Max/5-Structs and Custom Types/80. Structs & Pointers",
@@ -181,8 +185,6 @@
     "Max/5-Structs and Custom Types/79. Passing Struct Values As Arguments/structs.go",
     "Max/5-Structs and Custom Types/79. Passing Struct Values As Arguments/go.mod",
     "Max/5-Structs and Custom Types/79. Passing Struct Values As Arguments",
-    "Max/5-Structs and Custom Types/78. Alternative Struct Literal Notation & Struct Null Values - Copy/structs.go",
-    "Max/5-Structs and Custom Types/78. Alternative Struct Literal Notation & Struct Null Values - Copy/go.mod",
     "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1. Module 1.md",
     "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.8.1. Understanding Data Formats - Plain Text, XML, and JSON.md",
     "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 2 Inside the Kitchen - Making Your Food/2.1. From Ordering to Eating (The Request-Response Lifecycle).md",
@@ -191,7 +193,6 @@
     "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 5/5.1 The Person at the Door (Middleware).md",
     "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 5/5.2 What the Helper Does (Middleware Use Cases).md",
     "goDsa/DSA Course Pathway - From Foundation to Advanced/Module 2/2.3 How to Analyze Code.md",
-    "goDsa/DSA Course Pathway - From Foundation to Advanced/0. DSA Course Pathway - From Foundation to Advanced/DSA Course Pathway - From Foundation to Advanced.md",
     "goDsa/DSA Course Pathway - From Foundation to Advanced/Module 2/2.2 The Common Runtimes.md",
     "goDsa/DSA Course Pathway - From Foundation to Advanced/Module 2/2.1 Big O Core Concepts.md",
     "goDsa/DSA Course Pathway - From Foundation to Advanced/Bubble sort.md",
@@ -208,7 +209,6 @@
     "Neetcode/Neetcode150/2. Two Pointers/3. Hard/17. Trapping rain water.md",
     "Neetcode/Neetcode150/2. Two Pointers/1. Easy/2. Valid Palindrom II.md",
     "Neetcode/Neetcode150/2. Two Pointers/1. Easy/1. Valid Palindrome.md",
-    "Neetcode/Neetcode150/1.Array & Hashing/1. Easy/1. Contain Duplicate 0.md",
     "Neetcode/Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "NeetcodeALL/0. Roadmap/0. Roadmap.canvas"
