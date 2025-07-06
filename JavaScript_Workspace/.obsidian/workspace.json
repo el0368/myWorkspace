@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks/2. Arrow Functions - The Modern Standard 🚀.md",
+                "file": "JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks/1.3. Where to Use Arrow Functions in Vue ✅.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Arrow Functions - The Modern Standard 🚀"
+              "title": "1.3. Where to Use Arrow Functions in Vue ✅"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks/2. Arrow Functions - The Modern Standard 🚀.md",
+                "file": "JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks/1.3. Where to Use Arrow Functions in Vue ✅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Arrow Functions - The Modern Standard 🚀"
+              "title": "Backlinks for 1.3. Where to Use Arrow Functions in Vue ✅"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks/2. Arrow Functions - The Modern Standard 🚀.md",
+                "file": "JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks/1.3. Where to Use Arrow Functions in Vue ✅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Arrow Functions - The Modern Standard 🚀"
+              "title": "Outgoing links from 1.3. Where to Use Arrow Functions in Vue ✅"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks/2. Arrow Functions - The Modern Standard 🚀.md",
+                "file": "JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks/1.3. Where to Use Arrow Functions in Vue ✅.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Arrow Functions - The Modern Standard 🚀"
+              "title": "Outline of 1.3. Where to Use Arrow Functions in Vue ✅"
             }
           }
         ]
@@ -182,10 +182,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da5d4382d1f55cf8",
+  "active": "91b72b7c7fa42ac5",
   "lastOpenFiles": [
+    "Working with the DOM/152. Summary- Node Query Methods.md",
+    "Working with the DOM/151.md",
+    "Working with the DOM/150.md",
+    "Working with the DOM/149.md",
+    "Working with the DOM/148.md",
+    "Working with the DOM",
+    "JavaScript for Vue/Module1. The Core Fundamentals/1.4 Objects and Arrays- Handling Data/3. The this Keyword.md",
+    "JavaScript for Vue/Module1. The Core Fundamentals/1.4 Objects and Arrays- Handling Data/2. Array Methods.md",
+    "JavaScript for Vue/Module1. The Core Fundamentals/1.4 Objects and Arrays- Handling Data/1. Object Literal-Creating and manipulating objects..md",
+    "JavaScript for Vue/Module1. The Core Fundamentals/1.4 Objects and Arrays- Handling Data",
+    "JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks/1.2. Arrow Functions - The Modern Standard 🚀.md",
+    "JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks/1.3. Where to Use Arrow Functions in Vue ✅.md",
     "JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks/1. Function Declarations vs. Expressions.md",
-    "JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks/2. Arrow Functions - The Modern Standard 🚀.md",
     "JavaScript for Vue/Module1. The Core Fundamentals/1.1 Variables, Scope, and Data Types/1. Key Concepts Variables, Scope, & Data Types/3. Data Types.md",
     "JavaScript for Vue/0/0. JavaScript for Vue.js - A Comprehensive Preparatory Course.md",
     "JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks",
@@ -199,8 +210,6 @@
     "JavaScript for Vue/Module1. The Core Fundamentals/1.1 Variables, Scope, and Data Types",
     "JavaScript for Vue/Module3. Bridging the Gap to Vue.js/3.2 Final Project A Pre-Vue Application",
     "JavaScript for Vue/Module3. Bridging the Gap to Vue.js",
-    "JavaScript for Vue/Module2. Modern JavaScript (ES6+ for Vue Developers)",
-    "JavaScript for Vue/Module1. The Core Fundamentals",
-    "JavaScript for Vue/0"
+    "JavaScript for Vue/Module2. Modern JavaScript (ES6+ for Vue Developers)"
   ]
 }
