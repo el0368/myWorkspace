@@ -35,7 +35,8 @@
               "title": "1. Function Declarations vs. Expressions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript for Vue/0/0. JavaScript for Vue.js - A Comprehensive Preparatory Course.md",
+                "file": "JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks/1. Function Declarations vs. Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0. JavaScript for Vue.js - A Comprehensive Preparatory Course"
+              "title": "Backlinks for 1. Function Declarations vs. Expressions"
             }
           },
           {
@@ -127,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript for Vue/0/0. JavaScript for Vue.js - A Comprehensive Preparatory Course.md",
+                "file": "JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks/1. Function Declarations vs. Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 0. JavaScript for Vue.js - A Comprehensive Preparatory Course"
+              "title": "Outgoing links from 1. Function Declarations vs. Expressions"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript for Vue/0/0. JavaScript for Vue.js - A Comprehensive Preparatory Course.md",
+                "file": "JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks/1. Function Declarations vs. Expressions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0. JavaScript for Vue.js - A Comprehensive Preparatory Course"
+              "title": "Outline of 1. Function Declarations vs. Expressions"
             }
           }
         ]
@@ -182,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da5d4382d1f55cf8",
+  "active": "91b72b7c7fa42ac5",
   "lastOpenFiles": [
+    "JavaScript for Vue/0/0. JavaScript for Vue.js - A Comprehensive Preparatory Course.md",
     "JavaScript for Vue/Module2. Modern JavaScript/2.1 Enhanced Readability and Syntax/2. Template Literals.md",
     "JavaScript for Vue/Module2. Modern JavaScript/2.1 Enhanced Readability and Syntax/3. The Spread Operator (...).md",
     "JavaScript for Vue/Module2. Modern JavaScript/2.1 Enhanced Readability and Syntax/1. Destructuring.md",
@@ -206,7 +208,6 @@
     "JavaScript for Vue/Module1. The Core Fundamentals/1.4 Objects and Arrays- Handling Data/1. Object Literal-Creating and manipulating objects..md",
     "JavaScript for Vue/Module1. The Core Fundamentals/1.4 Objects and Arrays- Handling Data",
     "JavaScript for Vue/Module1. The Core Fundamentals/1.1 Variables, Scope, and Data Types/1. Key Concepts Variables, Scope, & Data Types/3. Data Types.md",
-    "JavaScript for Vue/0/0. JavaScript for Vue.js - A Comprehensive Preparatory Course.md",
     "JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks",
     "JavaScript for Vue/Module1. The Core Fundamentals/1.2 Control Flow and Logic/Untitled.md",
     "JavaScript for Vue/Module1. The Core Fundamentals/1.1 Variables, Scope, and Data Types/1. Key Concepts Variables, Scope, & Data Types/0..md",
