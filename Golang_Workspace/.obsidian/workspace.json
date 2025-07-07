@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 487.49999618530273
   },
   "right": {
     "id": "a8534822b61bea9f",
@@ -170,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef86e01c1b70e8c5",
+  "active": "2de609ed0b141684",
   "lastOpenFiles": [
     "goDsa/DSA Course Pathway - From Foundation to Advanced/0. DSA Course Pathway - From Foundation to Advanced/DSA Course Pathway - From Foundation to Advanced.md",
     "Golang-Fundamentals/Data structure and Algorithms/Untitled.md",
