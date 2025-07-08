@@ -1,0 +1,226 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red31\green32\blue48;}
+{\*\expandedcolortbl;;\cssrgb\c16471\c16863\c24706;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 So we left off last time with a simple Hello World program.\
+And this time I want to make another Hello World program, but I want to make it a little more complex\
+this time.\
+Instead of just printing Hello World to the screen, I want to create a web application that listens\
+on a particular port so I can hit that application with my favorite web browser and see Hello world\
+printed to the browser window.\
+So that is actually pretty simple and it doesn't sound that interesting, but it actually is a lot more\
+interesting than you think and you'll see why shortly.\
+So I'm back in my Hello World program and I'm just going to modify this one.\
+And this time, instead of just printing Hello World to the screen, I'm going to comment that out,\
+which automatically makes my IDE remove that Fmt format function or package that I don't need anymore.\
+And this time I'm going to create a new function within my main function.\
+And it's you'll see how it works here.\
+So we're going to use a built in package that's part of the standard library for Go called Http.\
+And as the name implies, it's one that deals with the web.\
+So http dot, and then I get my IDE giving me all of my things that I can possibly use from here.\
+And you can see there's all kinds of things that are related to the web.\
+And that's not surprising because Go was built from the ground up to be aware of the web and to be able\
+to deal with it in a meaningful fashion.\
+So I'm looking for one that starts with the letter H and it's called Handler Func.\
+There it is.\
+So that's part of the net Http package which I can see right here.\
+So when I hit return to choose that it should automatically import net Http and if it doesn't you need\
+to go type that in.\
+Now this requires some arguments and the arguments it requires are pretty straightforward.\
+The first thing it wants and we can see when I roll my mouse over it, it's saying it needs a couple\
+of things.\
+It needs well, to start with, I'm going to give it the path name.\
+That's the URL, the uniform resource locator that I want to listen to.\
+So when people go to my web application and don't specify anything after the name of the host, here's\
+what I want to give back to them.\
+And what I'm going to give them is I'm actually going to inline a function here func and it's going\
+to have W, which is the Http response writer.\
+This is the very first thing that you need to have because this is a handler function for the Http.\
+I need to be able to write responses to the user.\
+So that's what the response writer does and I've just called that W you can call it whatever you want\
+to, you can call it yellow if you want to, but it's a writer.\
+So I'm going to put W for response writer and then I need the request.\
+And request starts with the letter R, so I'm going to call my variable R, This is my parameter for\
+this function and it's a request.\
+Now it's not an Http request, it's actually and this may be the very first time you've ever seen this\
+in your entire programming career.\
+It's a pointer and I can call it a pointer by putting a star in front of it.\
+Now, a pointer is nothing more than an address in memory where some value is stored.\
+And the reason I have to use a pointer here is because the handler func requires the request to be a\
+pointer to a request.\
+So the request is what the web server or web browser that's hitting my application sends.\
+It sends a request and then I process that request, whatever it may be, and send back a response.\
+And every Http handler function has to deal with responses and requests.\
+So I have my my function partly written here.\
+Let's get back between these two parentheses and actually do the body of the function.\
+And the body is going to be nothing more than I don't know why I have the letter R in there.\
+There should be no R.\
+Try that again.\
+Handle func.\
+I want to return something and what I want to return is just thumped, which we saw before print line.\
+Hello world.\
+Okay, so it re-imported fmt for me the format function and that's all that I have.\
+So that is pretty straightforward, but I don't actually want to print a line here because printing\
+a line is just going to print it to the console.\
+So let's change that a little bit.\
+Instead of using print line, let's use F, print f and f print F actually requires a response writer\
+to write to.\
+Well, I have one right here, the W, so let's put a W in there.\
+And now everything seems okay.\
+The only danger is you notice there's a little squiggly line under this.\
+It might be different in Visual Studio code, but it's probably there in some format.\
+If I roll over it, it says, Aha, this is an unhandled error.\
+Well, one of the cool things about the standard library is I can actually go and look at this actual\
+built in function within the the standard library and I'm going to do that in a.\
+My ID by hitting the holding down the command key and hitting or clicking on it.\
+And that takes me right to this function.\
+F print f it returns.\
+So here's the description of this function.\
+The function is called F print f, It's part of the package.\
+If I scroll to the very top, I'm on line 202.\
+I don't want to lose my line at the very top.\
+It's part of the Fmt package, so I'm going to go back to line 202.\
+So it's a function that's part of that package.\
+It takes as arguments an io.writer and fortunately the response writer that's part of the Http package\
+satisfies this requirement.\
+So it's a writer and then it has a format string and then optionally some other things after it, which\
+I'm going to ignore for right now.\
+So and it returns.\
+This is the part I'm interested.\
+It returns an N, which is an int and an error which is of type error.\
+So let's read the description here.\
+F print f formats according to a format specifier and writes to W, it returns the number of bytes written\
+and any write error encountered.\
+So I'm going to get the number of bytes written.\
+Well, I don't really want that, but I can look at it so I could say n that's the variable that's going\
+to store the number of bytes written and the error, which is I'm going to call error again, I can\
+call it whatever I want to.\
+And then you think you might just go equals, but that's not going to work.\
+Now that is actually a function.\
+We're going to use it a lot.\
+This, this equals sign, but right now we're going to use a special one that says automatically format\
+these return types to whatever this function sends back.\
+And we saw in the description that F print f returns an int and an error.\
+So n will be an int or an integer.\
+An error will be of type error.\
+I still have red lines underneath these things indicating that there's an error.\
+And actually if I try to compile this, if I say in my terminal, go run main.go, I'll get an error.\
+And the error is actually two errors.\
+N declared but not used.\
+An error declared not but not used.\
+So actually I'm not allowed in.\
+Go to declare variables unless I actually use them.\
+I don't really care about the number of bytes written, but let's do something with it.\
+Okay.\
+Format f or print line and then I'm going to put.\
+Bytes written followed by a colon and then a plus sign to join what I'm passing it next.\
+And that would be n.\
+You think that would work?\
+If you're coming from the PHP world, that would make perfect sense.\
+But it doesn't because PHP is loosely typed, which means I can store anything I want in a variable,\
+whereas go is considerably more strict.\
+It says n is an int and you can't print an int like that.\
+Well, how am I going to print out the number of bytes to the terminal window, which is all I'm trying\
+to do?\
+Well, it's not that hard.\
+Instead of format print line, I'm going to go format.\
+Print line.\
+I'm still going to use that and then I'm going to go format again.\
+S printf and s printf allows me to take different data types and return them as a string.\
+So in here I'm going to put number of bytes written colon and then I'm going to put a placeholder percent\
+D and percent D is a placeholder that formats printf is going to replace with some value.\
+And as you might guess, I want to put N in there.\
+There.\
+Okay, so that works.\
+But I still have an error that I'm not doing anything with.\
+All right, let's handle that.\
+Since error is returned by the printf function and if there is no error, it doesn't have any value.\
+I can actually do a simple if statement and an if statement is nothing more than checking one condition\
+against another and then executing a particular set of commands if the conditions meet whatever criteria\
+I've specified.\
+So let's try it.\
+If error is not equal to nil.\
+In other words, if there is an error, I don't know what it's going to be, but I know if there is\
+no error, it's going to be nil that I want to do something and all I'm going to do here is format,\
+print line error.\
+I'm just going to write the error to the console, which is not terribly helpful in a real world program,\
+but it's suitable for our requirements right now.\
+So I've now solved the problem.\
+I've got those two return values from F print f, and I handle one.\
+If there's an error, I print it.\
+If there's not, nothing happens and then I just print the number of bytes written.\
+So let's try that.\
+Let's run this again.\
+So back down to my terminal.\
+I hit the up arrow to get my last command and I run this command and there it goes.\
+This is okay.\
+Well, nothing happened.\
+It started and it ended.\
+Why?\
+Well, it's pretty straightforward.\
+I have this Http handler function which is listening for a request sent by a web browser, and yet at\
+no point have I started any process that says listen for requests from web browsers.\
+So I actually have to do something else beyond this handler function, which in fact is never actually\
+called.\
+It's just sitting there embedded in my main function and it never executes.\
+So now here's how easy it is to start a web server that listens for requests in.\
+Go http, dot, listen and serve, and I'm going to listen to a particular port in my computer.\
+And because I don't want to use a privileged port and ports are just things that you can listen to from\
+applications.\
+The first 1024 ports on any computer system are privileged.\
+You have to be a super user to use those, which is no problem.\
+I'm going to listen to port and it has to start with a colon 8080.\
+So I'm going to listen on port 8080 and then it expects another argument, a handler.\
+But I'm going to say nil.\
+I'm not going to pass it a particular handler instead, that's what this Http handle function does.\
+I don't need this anymore, so I'm going to delete it.\
+And now when I run this notice, this also has an error it's listening for and I'm going to ignore it\
+explicitly.\
+I'm going to do that because I don't want to handle this error.\
+If the web server doesn't start, I will know because the program will crash.\
+So I don't need to look for this error.\
+I'm going to say underline.\
+So the shift dash equals that.\
+And all this is saying is if there's an error, I don't care.\
+Just throw it in the trash bin, pay no attention to it whatsoever.\
+So let's run this program again and see what happens.\
+Go run Main.go.\
+And nothing seems to be happening.\
+But it didn't kick me out of the application.\
+What I have just done with one line of code is started a production quality web server to listen for\
+requests.\
+So let's make sure this actually works.\
+What I expect to happen is I'm going to go to my web browser, I'm going to go to this server, which\
+is called localhost on any computer.\
+That's the default localhost colon 8080.\
+And what I want to see happen is two things I want to see Hello World printed to my web browser window,\
+and then I want to be able to come back in here and I should see a log entry right down here in the\
+terminal that tells me how many bytes were written.\
+Let's see if that works.\
+So I go to my favorite web browser and I go to the URL bar and I type in localhost colon 8080 and hit\
+return.\
+And there is Hello world.\
+Perfect.\
+Now let's go back and look at our terminal window and there it is.\
+Number of bytes written, 13 number of bytes written 13.\
+Now why did that run it twice?\
+I'm not sure.\
+Don't really care about that right now.\
+I'm going to let that do its thing.\
+So now I have written a complete web application.\
+True.\
+All that it does is actually serve the words Hello, comma world, exclamation mark.\
+But it does it really, really well.\
+And this is the basis for any web application in go.\
+Now things will get more complex, but not that complex.\
+One of the great things about Go is it's an extremely easy to learn language, and everything functions\
+in a really straightforward, organized and logical way, and you're not going to have any.\
+Difficulty following along.\
+So that's enough for this time.\
+Next time we'll make it a little bit more complex.\
+}
