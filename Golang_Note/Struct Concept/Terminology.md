@@ -18,3 +18,7 @@ The idiomatic and more accurate term is a **factory function**.
     
 
 So, when you call a function named `New...` in Go, you're not using a special "constructor," you're just calling a normal function that happens to build a struct for you. Using the term "factory function" shows a clearer understanding of Go's design philosophy.
+
+---
+
+Generate examples pls

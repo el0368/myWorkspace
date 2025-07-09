@@ -10,7 +10,6 @@ Your question about using `&` and `*` is excellent. You are correct that you don
 
 No matter what, you must always have this starting point. This is non-negotiable.
 
-Go
 
 ```Go
 // The Blueprint. This tells Go what a User looks like.
@@ -35,7 +34,6 @@ This is the method you've seen. It's the most common and generally preferred way
 - The `*User` in the function signature is a promise: "This function will return a **pointer** to a `User`."
     
 
-Go
 
 ```Go
 // This factory returns a POINTER to a User.
@@ -56,7 +54,6 @@ This is what you were thinking of. You can create the struct and return it direc
 - The `User` in the function signature is a promise: "This function will return a **copy** of a `User`."
     
 
-Go
 
 ```Go
 // This factory returns a COPY of a User.
