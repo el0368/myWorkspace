@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang-Fundamentals/Data structure and Algorithms/Untitled.md",
-                "mode": "source",
+                "file": "Gemini Golang Project Exercise/Project 1 - 3/Untitled.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -170,10 +170,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2de609ed0b141684",
+  "active": "ef86e01c1b70e8c5",
   "lastOpenFiles": [
-    "goDsa/DSA Course Pathway - From Foundation to Advanced/0. DSA Course Pathway - From Foundation to Advanced/DSA Course Pathway - From Foundation to Advanced.md",
+    "Gemini Golang Project Exercise/Project 1 - 3/1. Project 1.1.md",
+    "Gemini Golang Project Exercise/Project 1 - 3/Untitled.md",
+    "Gemini Golang Project Exercise/Project 1 - 3/1. Project 1.md",
+    "Gemini Golang Project Exercise/Project 1 - 3/0. Project.md",
+    "Gemini Golang Project Exercise/Exercise/Untitled.md",
+    "Gemini Golang Project Exercise/Exercise",
+    "Gemini Golang Project Exercise/Project 1 - 3",
+    "practiceConcept/1. write text to a file in Go.md",
+    "Untitled",
     "Golang-Fundamentals/Data structure and Algorithms/Untitled.md",
+    "Gemini Golang Project Exercise",
+    "goDsa/DSA Course Pathway - From Foundation to Advanced/0. DSA Course Pathway - From Foundation to Advanced/DSA Course Pathway - From Foundation to Advanced.md",
     "Golang-Fundamentals/Data structure and Algorithms",
     "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/0. Note/0. Summarize my own words.md",
     "Max/5-Structs and Custom Types/80. Structs & Pointers/structs.go",
@@ -181,10 +191,6 @@
     "Max/5-Structs and Custom Types/80. Structs & Pointers",
     "Max/5-Structs and Custom Types/79. Passing Struct Values As Arguments - Copy/go.mod",
     "Max/5-Structs and Custom Types/79. Passing Struct Values As Arguments - Copy/structs.go",
-    "Max/5-Structs and Custom Types/79. Passing Struct Values As Arguments - Copy",
-    "Max/5-Structs and Custom Types/79. Passing Struct Values As Arguments/structs.go",
-    "Max/5-Structs and Custom Types/79. Passing Struct Values As Arguments/go.mod",
-    "Max/5-Structs and Custom Types/79. Passing Struct Values As Arguments",
     "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1. Module 1.md",
     "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.8.1. Understanding Data Formats - Plain Text, XML, and JSON.md",
     "Gemini-Principles-of-Web Development-Backend Architecture-A-Structured-Lesson-Plan/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 2 Inside the Kitchen - Making Your Food/2.1. From Ordering to Eating (The Request-Response Lifecycle).md",
@@ -203,12 +209,6 @@
     "Neetcode/NeetcodeALL/1.Array & Hashing/1. Easy/2.  Valid Anagram 0.md",
     "Neetcode/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
     "Neetcode/Neetcode150/3. Stack/2. Medium/10. Car Fleet.md",
-    "Neetcode/Neetcode150/3. Stack/2. Medium/6. Generate parentheses.md",
-    "Neetcode/Neetcode150/3. Stack/2. Medium/4. Min stack.md",
-    "Neetcode/Neetcode150/3. Stack/1. Easy/1. Valid Parentheses.md",
-    "Neetcode/Neetcode150/2. Two Pointers/3. Hard/17. Trapping rain water.md",
-    "Neetcode/Neetcode150/2. Two Pointers/1. Easy/2. Valid Palindrom II.md",
-    "Neetcode/Neetcode150/2. Two Pointers/1. Easy/1. Valid Palindrome.md",
     "Neetcode/Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "NeetcodeALL/0. Roadmap/0. Roadmap.canvas"
