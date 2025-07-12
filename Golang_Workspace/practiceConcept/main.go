@@ -49,3 +49,8 @@ func main() {
 	// Display the details of the book that was just created.
 	book.bookList()
 }
+
+func returnString(showDisplay string) string {
+	fmt.Println(showDisplay)
+	fmt.Scanln()
+}
