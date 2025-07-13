@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "73ac5b39c8ebd78f",
+    "id": "d518ae20fa436e93",
     "type": "split",
     "children": [
       {
-        "id": "df569d0a10c12a39",
+        "id": "535cfc96314211c8",
         "type": "tabs",
         "children": [
           {
-            "id": "7e9ebd306056397e",
+            "id": "0b5bc1b1170831d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factory Function/Four main parts/4.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "49a61285b4eac513",
+    "id": "7fbe650fe96cbdf0",
     "type": "split",
     "children": [
       {
-        "id": "87ea717aa3327b40",
+        "id": "05a553dee70aa0aa",
         "type": "tabs",
         "children": [
           {
-            "id": "25f3830d05803aaf",
+            "id": "f87112e3d978acb3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "9f1410f2e5f522d0",
+            "id": "5fa7f1e8d411be16",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "b1db110b129b0ba4",
+            "id": "ff30366db5673a65",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "36b81ebaaede1a6d",
+    "id": "a6e60650a407fd5d",
     "type": "split",
     "children": [
       {
-        "id": "e00072983ef4340d",
+        "id": "e3d8c8c46aff1f1c",
         "type": "tabs",
         "children": [
           {
-            "id": "9815fcb6e185ad85",
+            "id": "cdb004e5645946bd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interface/What makes an interface an interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What makes an interface an interface"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "785929585da1f23f",
+            "id": "31684137334312d2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interface/What makes an interface an interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from What makes an interface an interface"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "a811b37d1165910b",
+            "id": "e6ca88f1148fe92a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +131,17 @@
             }
           },
           {
-            "id": "93638c773ce4606d",
+            "id": "847b24ba9f1807c1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interface/What makes an interface an interface.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of What makes an interface an interface"
+              "title": "Outline"
             }
           }
         ]
@@ -168,40 +161,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e9ebd306056397e",
-  "lastOpenFiles": [
-    "Factory Function/Four main parts/0..md",
-    "Factory Function/Four main parts/1.md",
-    "Factory Function/Four main parts/4.md",
-    "Factory Function/Four main parts/3.md",
-    "Factory Function/Four main parts/2.md",
-    "Factory Function/3. Factory function is a design pattern.md",
-    "Factory Function/Four main parts",
-    "Factory Function/3. Factory function is a design pattern 1.md",
-    "Factory Function/1. The main purpose of a factory function in Go.md",
-    "Factory Function/2..md",
-    "Function/3. Advanced Function Concepts.md",
-    "Function/2. Functions as First-Class Citizens.md",
-    "Function/1. Function Fundamentals (The Ground Up).md",
-    "Function/0..md",
-    "Function/4. Flexible Function Parameters.md",
-    "Interface/What makes an interface an interface.md",
-    "Function",
-    "return function as value/Untitled.md",
-    "return function as value/Return function as value.md",
-    "return function as value/Return function as value 2.md",
-    "return function as value/4.md",
-    "return function as value/3.  two ways to structure the code when returning a function as a value.md",
-    "return function as value",
-    "make function/make in map.md",
-    "make function/make in map example.md",
-    "make function/7. Practical Considerations - When to Use make.md",
-    "make function/6. The Performance Benefits of Pre-allocating Capacity.md",
-    "make function/5. Creating a Slice with Pre-defined Capacity.md",
-    "make function/4. Behavior of append on Pre-sized Slices.md",
-    "make function",
-    "Array Slice Map",
-    "Interface",
-    "Struct Concept"
-  ]
+  "active": "f87112e3d978acb3",
+  "lastOpenFiles": []
 }
