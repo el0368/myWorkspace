@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factory Function/Four main parts/4.md",
+                "file": "Section 8 Function Deep Dive/128. return function as value/4.md",
                 "mode": "preview",
                 "source": false
               },
@@ -170,9 +170,13 @@
   },
   "active": "7e9ebd306056397e",
   "lastOpenFiles": [
+    "Section 8 Function Deep Dive/128. return function as value/3.  two ways to structure the code when returning a function as a value.md",
+    "Section 8 Function Deep Dive/129. Anoymous Function/Untitled 1.md",
+    "Section 8 Function Deep Dive/129. Anoymous Function/Untitled.md",
+    "Section 8 Function Deep Dive/130. Closure/Untitled.md",
+    "Factory Function/Four main parts/4.md",
     "Factory Function/Four main parts/0..md",
     "Factory Function/Four main parts/1.md",
-    "Factory Function/Four main parts/4.md",
     "Factory Function/Four main parts/3.md",
     "Factory Function/Four main parts/2.md",
     "Factory Function/3. Factory function is a design pattern.md",
@@ -195,10 +199,6 @@
     "return function as value",
     "make function/make in map.md",
     "make function/make in map example.md",
-    "make function/7. Practical Considerations - When to Use make.md",
-    "make function/6. The Performance Benefits of Pre-allocating Capacity.md",
-    "make function/5. Creating a Slice with Pre-defined Capacity.md",
-    "make function/4. Behavior of append on Pre-sized Slices.md",
     "make function",
     "Array Slice Map",
     "Interface",

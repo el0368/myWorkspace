@@ -11,10 +11,14 @@
             "id": "0b5bc1b1170831d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.3 Tracing Example 2 - Recursion with a Descending Action.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "46.3 Tracing Example 2 - Recursion with a Descending Action"
             }
           }
         ]
@@ -161,6 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f87112e3d978acb3",
-  "lastOpenFiles": []
+  "active": "0b5bc1b1170831d1",
+  "lastOpenFiles": [
+    "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.2 Tracing Example 1 - Recursion with an Ascending Action.md",
+    "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.1 Fundamentals of Recursion.md",
+    "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.0. How Recursion Works (Tracing).md",
+    "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/47. Generalising Recursion.md",
+    "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.5 The Two Phases of Recursion.md"
+  ]
 }
