@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOM Complete Guide/47. querySelector - practical example.md",
+                "file": "DOM/3. Accessing The DOM/38..md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "47. querySelector - practical example"
-            }
-          },
-          {
-            "id": "705cb35085366e2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Section 2 - JavaScript Fundamental Part 1/14. Operator Precedence.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14. Operator Precedence"
+              "title": "38."
             }
           }
         ]
@@ -182,43 +168,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da5d4382d1f55cf8",
+  "active": "91b72b7c7fa42ac5",
   "lastOpenFiles": [
-    "DOM Complete Guide/45.1 querySelector - Introduction.md",
-    "DOM Complete Guide/47. querySelector - practical example.md",
-    "DOM Complete Guide/45..md",
-    "DOM Complete Guide/44. getElementsByTagName.md",
-    "Course Title - DOMinatio - From Zero to Dynamic Web Pages/5..md",
-    "Course Title - DOMinatio - From Zero to Dynamic Web Pages/0..md",
-    "Course Title - DOMinatio - From Zero to Dynamic Web Pages/1..md",
-    "Section 7 - JavaScript in the browser DOM/75. What's the DOM and DOM Manipulation.md",
-    "DOM Complete Guide/38..md",
-    "DOM Complete Guide/38.1.md",
-    "Section 7 - JavaScript in the browser DOM/76. Selecting and Manipulating Elements.md",
-    "DOM Complete Guide",
-    "Working with the DOM/152. Summary- Node Query Methods.md",
-    "Working with the DOM/150.md",
-    "Working with the DOM/151.md",
-    "JavaScript for Vue/0/0. JavaScript for Vue.js - A Comprehensive Preparatory Course.md",
-    "DOM practice/main.js",
-    "Section 2 - JavaScript Fundamental Part 1/14. Operator Precedence.md",
-    "DOM practice/index.html",
-    "DOM practice",
-    "DOM",
-    "New folder",
-    "Section 2 - JavaScript Fundamental Part 1/13. Basic Operators.md",
-    "Section 2 - JavaScript Fundamental Part 1/12. Declaring Variables - let, const, and var.md",
-    "Section 2 - JavaScript Fundamental Part 1/11. Data Types.md",
-    "Working with the DOM/148.md",
-    "Section 7 - JavaScript in the browser DOM/Untitled.md",
-    "Section 7 - JavaScript in the browser DOM/87.1.md",
-    "Section 7 - JavaScript in the browser DOM/87. Rolling the Dice.md",
-    "Section 7 - JavaScript in the browser DOM/86. PROJECT 3 - Pig Game.md",
-    "Section 7 - JavaScript in the browser DOM/84.1.md",
-    "Section 7 - JavaScript in the browser DOM/84. Working With Classes.md",
-    "Section 7 - JavaScript in the browser DOM",
-    "Section 3 - JavaScript Fundamental Part 2",
-    "Section 2 - JavaScript Fundamental Part 1",
-    "JavaScript for Vue/Module2. Modern JavaScript/2.1 Enhanced Readability and Syntax"
+    "DOM/3. Accessing The DOM/45..md",
+    "DOM/3. Accessing The DOM/38..md",
+    "DOM/3. Accessing The DOM/34.  Lets build our page for this section.md",
+    "DOM/5. Nodes",
+    "DOM/2. JavaScript vs DOM/1.md",
+    "DOM/3. Accessing The DOM/29.1.md",
+    "DOM/3. Accessing The DOM/47. querySelector - practical example.md",
+    "JavaScript/Section 7 - JavaScript in the browser DOM/Untitled.md",
+    "JavaScript/Section 7 - JavaScript in the browser DOM/87.1.md",
+    "JavaScript/Section 7 - JavaScript in the browser DOM/87. Rolling the Dice.md",
+    "JavaScript/Section 7 - JavaScript in the browser DOM/86. PROJECT 3 - Pig Game.md",
+    "JavaScript/Section 7 - JavaScript in the browser DOM/84. Working With Classes.md",
+    "JavaScript/Section 7 - JavaScript in the browser DOM/84.1.md",
+    "JavaScript/Section 7 - JavaScript in the browser DOM/81. Implementing Highscores.md",
+    "JavaScript/Section 7 - JavaScript in the browser DOM/83. Project.md",
+    "JavaScript/Section 7 - JavaScript in the browser DOM/82. Refactoring Our Code The DRY Principle.md",
+    "JavaScript/Section 7 - JavaScript in the browser DOM/79. Manipulating CSS Styles.md",
+    "JavaScript/Section 7 - JavaScript in the browser DOM/77. Handling Click Events.md",
+    "JavaScript/Section 7 - JavaScript in the browser DOM/78. Implementing the Game Logic.md",
+    "JavaScript/Section 7 - JavaScript in the browser DOM/76. Selecting and Manipulating Elements.md",
+    "JavaScript/Section 7 - JavaScript in the browser DOM/75. What's the DOM and DOM Manipulation.md",
+    "JavaScript/Section 7 - JavaScript in the browser DOM",
+    "JavaScript/Section 3 - JavaScript Fundamental Part 2/50.1 FAQ.md",
+    "JavaScript/Section 3 - JavaScript Fundamental Part 2/50. The while Loop.md",
+    "JavaScript/Section 3 - JavaScript Fundamental Part 2/49.1 FAQ.md",
+    "JavaScript/Section 3 - JavaScript Fundamental Part 2/49. Looping Backwards and Loops in Loops.md",
+    "JavaScript/Section 3 - JavaScript Fundamental Part 2/48.1. FAQ.md",
+    "JavaScript/Section 3 - JavaScript Fundamental Part 2/48. Looping Arrays, Breaking and Continuing.md",
+    "JavaScript/Section 3 - JavaScript Fundamental Part 2",
+    "JavaScript/Section 2 - JavaScript Fundamental Part 1",
+    "JavaScript",
+    "HTML",
+    "DOM/3. Accessing The DOM",
+    "DOM/2. JavaScript vs DOM",
+    "DOM/1. Introduction to DOM",
+    "DOM"
   ]
 }
