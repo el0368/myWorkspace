@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.3 Tracing Example 2 - Recursion with a Descending Action.md",
+                "file": "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.2 Tracing Example 1 - Recursion with an Ascending Action.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "46.3 Tracing Example 2 - Recursion with a Descending Action"
+              "title": "46.2 Tracing Example 1 - Recursion with an Ascending Action"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 280.5071449279785,
+    "collapsed": true
   },
   "right": {
     "id": "a6e60650a407fd5d",
@@ -167,10 +168,14 @@
   },
   "active": "0b5bc1b1170831d1",
   "lastOpenFiles": [
-    "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.2 Tracing Example 1 - Recursion with an Ascending Action.md",
     "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.1 Fundamentals of Recursion.md",
     "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.0. How Recursion Works (Tracing).md",
     "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/47. Generalising Recursion.md",
-    "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.5 The Two Phases of Recursion.md"
+    "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.5 The Two Phases of Recursion.md",
+    "Section 5 Recursion/48. How Recursion uses Stack/0..md",
+    "Section 0 Prompt/0..md",
+    "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.3 Tracing Example 2 - Recursion with a Descending Action.md",
+    "Section 5 Recursion/48. How Recursion uses Stack",
+    "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.2 Tracing Example 1 - Recursion with an Ascending Action.md"
   ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 8 Function Deep Dive/128. return function as value/4.md",
+                "file": "make function/2. Introduction to the make Function for Slices.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4"
+              "title": "2. Introduction to the make Function for Slices"
             }
           }
         ]
@@ -170,10 +170,16 @@
   },
   "active": "7e9ebd306056397e",
   "lastOpenFiles": [
-    "Section 8 Function Deep Dive/128. return function as value/3.  two ways to structure the code when returning a function as a value.md",
-    "Section 8 Function Deep Dive/129. Anoymous Function/Untitled 1.md",
+    "make function/1. The Performance Problem with Appending to Empty Slices.md",
+    "make function/7. Practical Considerations - When to Use make.md",
+    "make function/make in map.md",
+    "make function/0..md",
+    "read and write file/read and write file.md",
     "Section 8 Function Deep Dive/129. Anoymous Function/Untitled.md",
+    "Section 8 Function Deep Dive/129. Anoymous Function/Untitled 1.md",
     "Section 8 Function Deep Dive/130. Closure/Untitled.md",
+    "Section 8 Function Deep Dive/128. return function as value/4.md",
+    "Section 8 Function Deep Dive/128. return function as value/3.  two ways to structure the code when returning a function as a value.md",
     "Factory Function/Four main parts/4.md",
     "Factory Function/Four main parts/0..md",
     "Factory Function/Four main parts/1.md",
@@ -192,13 +198,7 @@
     "Interface/What makes an interface an interface.md",
     "Function",
     "return function as value/Untitled.md",
-    "return function as value/Return function as value.md",
-    "return function as value/Return function as value 2.md",
-    "return function as value/4.md",
-    "return function as value/3.  two ways to structure the code when returning a function as a value.md",
     "return function as value",
-    "make function/make in map.md",
-    "make function/make in map example.md",
     "make function",
     "Array Slice Map",
     "Interface",
