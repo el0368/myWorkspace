@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML-CSS-JavaScript_Workspace/DOM/3. Accessing The DOM/34.  Lets build our page for this section.md",
+                "file": "Rust_Workspace/beRust/Section 1 Getting Started/15. Create Rust Project with Cargo.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "34.  Lets build our page for this section"
+              "title": "15. Create Rust Project with Cargo"
             }
           }
         ]
@@ -192,10 +192,27 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "c766fcd8343f6829",
+  "active": "c16f216c8de91cf8",
   "lastOpenFiles": [
-    "HTML-CSS-JavaScript_Workspace/DOM/3. Accessing The DOM/29.1.md",
+    "Rust_Workspace/beRust/Section 1 Getting Started/16. Hello World.md",
+    "Rust_Workspace/beRust/Section 1 Getting Started",
+    "Rust_Workspace/beRust/Section 1 Getting Started/15. Create Rust Project with Cargo.md",
+    "Rust_Workspace/Course/Era1.md",
+    "Rust_Workspace/beRust",
+    "Rust_Workspace/Course/0.md",
     "HTML-CSS-JavaScript_Workspace/DOM/3. Accessing The DOM/34.  Lets build our page for this section.md",
+    "HTML-CSS-JavaScript_Workspace/DOM/3. Accessing The DOM/47. querySelector - practical example.md",
+    "HTML-CSS-JavaScript_Workspace/DOM/3. Accessing The DOM/45.1 querySelector - Introduction.md",
+    "HTML-CSS-JavaScript_Workspace/DOM/3. Accessing The DOM/45..md",
+    "HTML-CSS-JavaScript_Workspace/DOM/3. Accessing The DOM/44. getElementsByTagName.md",
+    "HTML-CSS-JavaScript_Workspace/DOM/3. Accessing The DOM/38.1.md",
+    "HTML-CSS-JavaScript_Workspace/DOM/3. Accessing The DOM/38..md",
+    "HTML-CSS-JavaScript_Workspace/DOM practice/main.js",
+    "HTML-CSS-JavaScript_Workspace/DOM practice/index.html",
+    "HTML-CSS-JavaScript_Workspace/DOM practice",
+    "Golang_DSA/Section 5 Recursion/48. How Recursion uses Stack/0..md",
+    "Golang_DSA/Section 5 Recursion/48. How Recursion uses Stack",
+    "HTML-CSS-JavaScript_Workspace/DOM/3. Accessing The DOM/29.1.md",
     "HTML-CSS-JavaScript_Workspace/DOM/3. Accessing The DOM/29.md",
     "HTML-CSS-JavaScript_Workspace/DOM/3. Accessing The DOM/0.md",
     "HTML-CSS-JavaScript_Workspace/DOM/2. JavaScript vs DOM/1.md",
@@ -210,26 +227,8 @@
     "HTML-CSS-JavaScript_Workspace/DOM/1. Introduction to DOM/1.md",
     "HTML-CSS-JavaScript_Workspace/DOM/1. Introduction to DOM/2.md",
     "HTML-CSS-JavaScript_Workspace/DOM/1. Introduction to DOM/0.md",
-    "HTML-CSS-JavaScript_Workspace/CSS/2. To master resetting browser defaults/2. To master resetting browser defaults.md",
     "HTML-CSS-JavaScript_Workspace/HTML",
     "HTML-CSS-JavaScript_Workspace/DOM.canvas",
-    "HTML-CSS-JavaScript_Workspace/DOM/1. Introduction to DOM",
-    "HTML-CSS-JavaScript_Workspace/DOM",
-    "Golang_DSA/Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.1 Fundamentals of Recursion.md",
-    "HTML-CSS-JavaScript_Workspace/JavaScript",
-    "HTML-CSS-JavaScript_Workspace/JavaScript for Vue/Module1. The Core Fundamentals/1.1 Variables, Scope, and Data Types/1. Key Concepts Variables, Scope, & Data Types/2. Scope.md",
-    "HTML-CSS-JavaScript_Workspace/JavaScript for Vue/Module1. The Core Fundamentals/1.1 Variables, Scope, and Data Types/1. Key Concepts Variables, Scope, & Data Types/3. Data Types.md",
-    "HTML-CSS-JavaScript_Workspace/JavaScript for Vue/Module1. The Core Fundamentals/1.1 Variables, Scope, and Data Types/1. Key Concepts Variables, Scope, & Data Types/1. Key Concepts Variables, Scope, & Data Types.md",
-    "HTML-CSS-JavaScript_Workspace/JavaScript for Vue/Module1. The Core Fundamentals/1.1 Variables, Scope, and Data Types/1. Key Concepts Variables, Scope, & Data Types/0..md",
-    "HTML-CSS-JavaScript_Workspace/JavaScript for Vue/Module2. Modern JavaScript/2.1 Enhanced Readability and Syntax/3. The Spread Operator (...).md",
-    "HTML-CSS-JavaScript_Workspace/JavaScript for Vue/Module2. Modern JavaScript/2.1 Enhanced Readability and Syntax/2. Template Literals.md",
-    "HTML-CSS-JavaScript_Workspace/JavaScript for Vue/Module2. Modern JavaScript/2.1 Enhanced Readability and Syntax/1. Destructuring.md",
-    "HTML-CSS-JavaScript_Workspace/JavaScript for Vue/Module2. Modern JavaScript/2.1 Enhanced Readability and Syntax/0..md",
-    "HTML-CSS-JavaScript_Workspace/JavaScript for Vue/Module1. The Core Fundamentals/1.4 Objects and Arrays- Handling Data/3. The this Keyword.md",
-    "HTML-CSS-JavaScript_Workspace/JavaScript for Vue/Module1. The Core Fundamentals/1.4 Objects and Arrays- Handling Data/2. Array Methods.md",
-    "HTML-CSS-JavaScript_Workspace/JavaScript for Vue/Module1. The Core Fundamentals/1.1 Variables, Scope, and Data Types/1. Key Concepts Variables, Scope, & Data Types",
-    "HTML-CSS-JavaScript_Workspace/JavaScript for Vue/Module2. Modern JavaScript/2.1 Enhanced Readability and Syntax",
-    "HTML-CSS-JavaScript_Workspace/JavaScript for Vue/Module1. The Core Fundamentals/1.4 Objects and Arrays- Handling Data",
-    "HTML-CSS-JavaScript_Workspace/JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks"
+    "HTML-CSS-JavaScript_Workspace/DOM/1. Introduction to DOM"
   ]
 }
