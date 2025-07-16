@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.1 Fundamentals of Recursion.md",
+                "file": "Section 5 Recursion/54.1. Tail and Head Recursion/Untitled.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "46.1 Fundamentals of Recursion"
+              "title": "Untitled"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5071449279785
+    "width": 280.5071449279785,
+    "collapsed": true
   },
   "right": {
     "id": "a6e60650a407fd5d",
@@ -182,6 +183,10 @@
   },
   "active": "f598dad82960c9da",
   "lastOpenFiles": [
+    "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/47. Generalising Recursion.md",
+    "Section 5 Recursion/54.1. Tail and Head Recursion/Untitled.md",
+    "Section 5 Recursion/54.1. Tail and Head Recursion",
+    "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.1 Fundamentals of Recursion.md",
     "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.0. How Recursion Works (Tracing).md",
     "Section 5 Recursion/49. Recurrence Relation - Time Complexity of Recursion/Untitled 1.md",
     "Section 5 Recursion/49. Recurrence Relation - Time Complexity of Recursion/Untitled.md",
@@ -208,15 +213,11 @@
     "GoFiles/recursion/__debug_bin1821627490.exe",
     "GoFiles/recursion/__debug_bin2306546770.exe",
     "GoFiles/recursion/__debug_bin994162383.exe",
-    "GoFiles/recursion/__debug_bin1395054819.exe",
     "Section 5 Recursion/51. Static and Global Variables in Recursion/0.2.md",
     "Section 5 Recursion/51. Static and Global Variables in Recursion/0.1 static variable in general programming terms..md",
     "Section 5 Recursion/51. Static and Global Variables in Recursion/0.md",
     "Section 5 Recursion/48. How Recursion uses Stack/0..md",
     "Section 5 Recursion/48. How Recursion uses Stack/1.md",
-    "Section 5 Recursion/48. How Recursion uses Stack/1.1.md",
-    "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.2 Tracing Example 1 - Recursion with an Ascending Action.md",
-    "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.3 Tracing Example 2 - Recursion with a Descending Action.md",
-    "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.4 The Room and Bulb Analogy.md"
+    "Section 5 Recursion/48. How Recursion uses Stack/1.1.md"
   ]
 }
