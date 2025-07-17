@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/1. console.dir().md",
+                "file": "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/3.1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. console.dir()"
+              "title": "3.1"
             }
           }
         ]
@@ -168,10 +168,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da5d4382d1f55cf8",
+  "active": "91b72b7c7fa42ac5",
   "lastOpenFiles": [
+    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/3.md",
+    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/3.1.md",
+    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/1.1.md",
+    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/1.md",
+    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/2.1.md",
+    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/2.md",
+    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/0.1 css.md",
+    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/0. html.md",
+    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/6.md",
+    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/5.md",
+    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/4.md",
+    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/1. console.dir.md",
+    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/main.js",
+    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/styles.css",
+    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/index.html",
     "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1",
-    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/1. console.dir().md",
     "Working with the DOM/149.md",
     "main DOM/Travesry Media",
     "Working with the DOM/148.md",
@@ -188,23 +202,9 @@
     "main DOM/DOM - Complete Guide Part 1/5. Nodes 1/1.md",
     "main DOM/DOM - Complete Guide Part 1/5. Nodes 1/0.md",
     "main DOM/DOM Gemini/0/0.md",
-    "main DOM/DOM Gemini/Module 1/1.md",
-    "main DOM/DOM - Complete Guide Part 1/5. Nodes 1/4.md",
-    "main DOM/DOM - Complete Guide Part 1/5. Nodes 1/3.md",
-    "main DOM/DOM - Complete Guide Part 1/5. Nodes/65.md",
     "main DOM/DOM - Complete Guide Part 1/5. Nodes 1",
-    "main DOM/DOM - Complete Guide Part 1/5. Nodes/62. Identifying nodes.md",
-    "main DOM/DOM - Complete Guide Part 1/5. Nodes/61. Node - Family Tree.md",
-    "main DOM/DOM Gemini/Module 2/2.md",
-    "main DOM/DOM Gemini/Module 3/3.md",
-    "main DOM/DOM Gemini/Module 4/4.md",
     "main DOM/DOM Gemini/0",
-    "DOM Gemini/Module 1/0.md",
     "main DOM/DOM Gemini/Module 1",
-    "main DOM/DOM Gemini/Module 2",
-    "main DOM/DOM Gemini/Module 3",
-    "main DOM/DOM Gemini/Module 4",
-    "main DOM/DOM Gemini",
-    "main DOM/DOM - Complete Guide Part 1/5. Nodes"
+    "main DOM/DOM Gemini/Module 2"
   ]
 }

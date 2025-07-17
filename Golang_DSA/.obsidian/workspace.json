@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5071449279785,
-    "collapsed": true
+    "width": 280.5071449279785
   },
   "right": {
     "id": "a6e60650a407fd5d",
@@ -181,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f598dad82960c9da",
+  "active": "f87112e3d978acb3",
   "lastOpenFiles": [
     "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/47. Generalising Recursion.md",
     "Section 5 Recursion/54.1. Tail and Head Recursion/Untitled.md",
