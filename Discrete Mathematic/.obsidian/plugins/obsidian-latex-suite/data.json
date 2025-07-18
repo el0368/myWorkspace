@@ -6,7 +6,7 @@
   "suppressSnippetTriggerOnIME": true,
   "removeSnippetWhitespace": true,
   "autoDelete$": true,
-  "loadSnippetsFromFile": false,
+  "loadSnippetsFromFile": true,
   "loadSnippetVariablesFromFile": false,
   "snippetsFileLocation": "",
   "snippetVariablesFileLocation": "",
