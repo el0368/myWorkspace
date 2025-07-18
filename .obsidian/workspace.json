@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust_Workspace/beRust/Section 3 Data Type/67. Intro to Generics.md",
+                "file": "Rust_Workspace/beRust/Section 3 Data Type/45. Using _ as Visual Separator for Numbers.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "67. Intro to Generics"
+              "title": "45. Using _ as Visual Separator for Numbers"
             }
           },
           {
@@ -219,8 +219,10 @@
   },
   "active": "134b4309dddff16f",
   "lastOpenFiles": [
-    "Rust_Workspace/beRust/Section 3 Data Type/66. Ranges and Range Iteration.md",
+    "Rust_Workspace/beRust/Section 3 Data Type/44. Integers.md",
+    "Rust_Workspace/beRust/Section 3 Data Type/Vocabularies.md",
     "Rust_Workspace/beRust/Section 3 Data Type/67. Intro to Generics.md",
+    "Rust_Workspace/beRust/Section 3 Data Type/66. Ranges and Range Iteration.md",
     "Rust_Workspace/beRust/Section 3 Data Type/65. The Tuple Type.md",
     "Rust_Workspace/beRust/Section 3 Data Type/64. The dbg Macro.md",
     "Rust_Workspace/beRust/Section 3 Data Type/63. The Debug Trait.md",
@@ -244,8 +246,6 @@
     "Rust_Workspace/beRust/Section 3 Data Type/49. Floating Point Types.md",
     "Rust_Workspace/beRust/Section 3 Data Type/Untitled",
     "Rust_Workspace/beRust/Section 3 Data Type/48. Intro to Methods.md",
-    "Rust_Workspace/beRust/Section 3 Data Type/47. Strings and Raw Strings.md",
-    "Discrete Mathematic/Binary System (Secret Codes 🤫).md",
     "HTML-CSS-JavaScript_Workspace/main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/styles.css",
     "HTML-CSS-JavaScript_Workspace/main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/main.js",
     "HTML-CSS-JavaScript_Workspace/main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/index.html",
