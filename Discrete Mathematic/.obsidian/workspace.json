@@ -1,38 +1,40 @@
 {
   "main": {
-    "id": "d518ae20fa436e93",
+    "id": "8e7a489ea80710db",
     "type": "split",
     "children": [
       {
-        "id": "535cfc96314211c8",
+        "id": "a6d5501862cbd9cb",
         "type": "tabs",
         "children": [
           {
-            "id": "0b5bc1b1170831d1",
+            "id": "7b3dd0d5b2c8e26b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 5 Recursion/53. Tail Recursion/0. Tail Recursion.md",
+                "file": "0.md",
                 "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "0. Tail Recursion"
+              "title": "0"
             }
           },
           {
-            "id": "f598dad82960c9da",
+            "id": "f00d05855f0f14e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 5 Recursion/47. Generalising Recursion/47.md",
+                "file": "1st Scalable Discrete Mathematics/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "47"
+              "title": "Untitled"
             }
           }
         ],
@@ -42,15 +44,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7fbe650fe96cbdf0",
+    "id": "53ae20d1ff83559e",
     "type": "split",
     "children": [
       {
-        "id": "05a553dee70aa0aa",
+        "id": "6361e9f0694fafbe",
         "type": "tabs",
         "children": [
           {
-            "id": "f87112e3d978acb3",
+            "id": "86abe70a3404f9b1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +65,7 @@
             }
           },
           {
-            "id": "5fa7f1e8d411be16",
+            "id": "19c0e9c7169a32ac",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +82,7 @@
             }
           },
           {
-            "id": "ff30366db5673a65",
+            "id": "0a173c52cd4f25e8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,22 +95,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5071449279785
+    "width": 200
   },
   "right": {
-    "id": "a6e60650a407fd5d",
+    "id": "c43fe716ff746831",
     "type": "split",
     "children": [
       {
-        "id": "e3d8c8c46aff1f1c",
+        "id": "c5da5e453eb28001",
         "type": "tabs",
         "children": [
           {
-            "id": "cdb004e5645946bd",
+            "id": "b6bb1880b655cce4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1st Scalable Discrete Mathematics/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,24 +121,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Untitled"
             }
           },
           {
-            "id": "31684137334312d2",
+            "id": "97bfb4b271ff3b9a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1st Scalable Discrete Mathematics/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
-            "id": "e6ca88f1148fe92a",
+            "id": "f7ea36756d28b256",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,17 +154,18 @@
             }
           },
           {
-            "id": "847b24ba9f1807c1",
+            "id": "661d408710f7d82d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "1st Scalable Discrete Mathematics/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -180,43 +185,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f598dad82960c9da",
+  "active": "f00d05855f0f14e1",
   "lastOpenFiles": [
-    "Section 5 Recursion/48. How Recursion uses Stack/1.md",
-    "Section 5 Recursion/48. How Recursion uses Stack/1.1.md",
-    "Section 5 Recursion/48. How Recursion uses Stack/0..md",
-    "Section 5 Recursion/49. Recurrence Relation - Time Complexity of Recursion/Untitled.md",
-    "Section 5 Recursion/49. Recurrence Relation - Time Complexity of Recursion/Untitled 1.md",
-    "Section 5 Recursion/54.1. Tail and Head Recursion/Untitled.md",
-    "Section 5 Recursion/51. Static and Global Variables in Recursion/4.md",
-    "Section 5 Recursion/51. Static and Global Variables in Recursion/3.md",
-    "Section 5 Recursion/51. Static and Global Variables in Recursion/2.md",
-    "Section 5 Recursion/51. Static and Global Variables in Recursion/1.md",
-    "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/47. Generalising Recursion.md",
-    "Section 5 Recursion/54.1. Tail and Head Recursion",
-    "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.1 Fundamentals of Recursion.md",
-    "Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.0. How Recursion Works (Tracing).md",
-    "Section 5 Recursion/54. Head Recursion/0.md",
-    "Section 5 Recursion/54. Head Recursion/1.md",
-    "Section 5 Recursion/54. Head Recursion/2.md",
-    "Section 5 Recursion/53. Tail Recursion/3.md",
-    "Section 5 Recursion/53. Tail Recursion/2.md",
-    "Section 5 Recursion/53. Tail Recursion/1.md",
-    "Section 5 Recursion/53. Tail Recursion/0. Tail Recursion.md",
-    "Section 5 Recursion/Q&A/Calling time and Returning time.md",
-    "Section 5 Recursion/Q&A",
-    "Section 0 Prompt/0..md",
-    "Section 5 Recursion/54. Head Recursion",
-    "Section 5 Recursion/47. Generalising Recursion/47.md",
-    "Section 5 Recursion/47. Generalising Recursion/0.md",
-    "Section 5 Recursion/47. Generalising Recursion/1.md",
-    "Section 5 Recursion/47. Generalising Recursion/2.md",
-    "Section 5 Recursion/47. Generalising Recursion",
-    "GoFiles/recursion/__debug_bin919175952.exe",
-    "GoFiles/recursion/__debug_bin3505630115.exe",
-    "GoFiles/recursion/__debug_bin2765212639.exe",
-    "GoFiles/recursion/__debug_bin1821627490.exe",
-    "GoFiles/recursion/__debug_bin2306546770.exe",
-    "GoFiles/recursion/__debug_bin994162383.exe"
+    "1st Scalable Discrete Mathematics/1. Sets and Sorting.md",
+    "1st Scalable Discrete Mathematics/Untitled.md",
+    "0.md",
+    "1st Scalable Discrete Mathematics"
   ]
 }
