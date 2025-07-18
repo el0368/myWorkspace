@@ -1,0 +1,2 @@
+
+"smart_sources:Golang_Note/make function/6. The Performance Benefits of Pre-allocating Capacity.md": {"path":"Golang_Note/make function/6. The Performance Benefits of Pre-allocating Capacity.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"gst0rm","at":1752772041880},"class_name":"SmartSource","last_import":{"mtime":1751949169885,"size":2461,"at":1752772041880,"hash":"gst0rm"},"blocks":{"#":[1,19],"#---frontmatter---":[5,18],"###How Pre-allocation Provides a Solution":[20,30],"###How Pre-allocation Provides a Solution#{1}":[22,30]},"outlinks":[]},

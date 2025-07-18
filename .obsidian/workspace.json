@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Mathematic/0.md",
+                "file": "Discrete Mathematic/1st Scalable Discrete Mathematics/1. Sets and Sorting.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0"
+              "title": "1. Sets and Sorting"
             }
           }
         ]
@@ -170,10 +170,23 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "c16f216c8de91cf8",
+  "active": "c69be7b1c58b18dd",
   "lastOpenFiles": [
-    "Rust_Workspace/beRust/Section 3 Data Type/46. The usize and isize Types.md",
     "Discrete Mathematic/0.md",
+    "Rust_Workspace/beRust/prompt.md",
+    "Rust_Workspace/beRust/Section 3 Data Type/Vocabularies.md",
+    "Rust_Workspace/beRust/Section 3 Data Type/67. Intro to Generics.md",
+    "Rust_Workspace/beRust/Section 3 Data Type/66. Ranges and Range Iteration.md",
+    "Rust_Workspace/beRust/Section 3 Data Type/65. The Tuple Type.md",
+    "Rust_Workspace/beRust/Section 3 Data Type/64. The dbg Macro.md",
+    "Rust_Workspace/beRust/Section 3 Data Type/50. Formatting Floats with Format Specifier.md",
+    "Rust_Workspace/beRust/Section 3 Data Type/49. Floating Point Types.md",
+    "Rust_Workspace/beRust/Section 3 Data Type/48. Intro to Methods.md",
+    "Rust_Workspace/beRust/Section 3 Data Type/47. Strings and Raw Strings.md",
+    "Rust_Workspace/beRust/Section 3 Data Type/45. Using _ as Visual Separator for Numbers.md",
+    "Golang_DSA/Section 5 Recursion/54.1. Tail and Head Recursion/Recursion convert to For loop.md",
+    "Golang_DSA/Section 5 Recursion/54.1. Tail and Head Recursion",
+    "Rust_Workspace/beRust/Section 3 Data Type/46. The usize and isize Types.md",
     "Discrete Mathematic",
     "Rust_Workspace/beRust/Section 3 Data Type/44. Integers.md",
     "Rust_Workspace/beRust/Section 3 Data Type/45.md",
@@ -188,18 +201,6 @@
     "Rust_Workspace/beRust/Section 1 Getting Started/16. Hello World.md",
     "Rust_Workspace/beRust/Section 1 Getting Started/19. The cargo build Command.md",
     "Rust_Workspace/beRust/Section 1 Getting Started/20. Cargo Run Command.md",
-    "Rust_Workspace/beRust/Section 1 Getting Started/21. The cargo check Command.md",
-    "Rust_Workspace/beRust/Section 2 Variables and Mutability/28. Intro to Variables.md",
-    "Rust_Workspace/beRust/Section 2 Variables and Mutability/34. Variable Shadowing.md",
-    "Rust_Workspace/beRust/Section 2 Variables and Mutability/38. Compiler Directives.md",
-    "Rust_Workspace/beRust/Section 2 Variables and Mutability/37. Type Aliases.md",
-    "Rust_Workspace/beRust/Section 2 Variables and Mutability/36. Constants.md",
-    "Rust_Workspace/beRust/Section 2 Variables and Mutability/29. Interpolation with Curly Braces.md",
-    "Golang_DSA/Section 4 Introduction/44. Time and Space Complexity/1. What is Time Complexity (The Big Idea).md",
-    "Golang_DSA/Section 4 Introduction/44. Time and Space Complexity/2. Linear Time - O(n).md",
-    "Golang_DSA/Section 4 Introduction/44. Time and Space Complexity/0. Time and Space Complexity.md",
-    "Golang_DSA/Section 4 Introduction/44. Time and Space Complexity/44.1 Time and Space Complexity.md",
-    "Golang_DSA/Section 4 Introduction/44. Time and Space Complexity/44.3 Time and Space Complexity.md",
     "Rust_Workspace/beRust/Section 3 Data Type",
     "Rust_Workspace/beRust/Section 2 Variables and Mutability",
     "HTML-CSS-JavaScript_Workspace/DOM Gemini/Module 4",
@@ -207,7 +208,6 @@
     "HTML-CSS-JavaScript_Workspace/DOM Gemini/Module 2",
     "HTML-CSS-JavaScript_Workspace/DOM Gemini/Module 1",
     "HTML-CSS-JavaScript_Workspace/DOM Gemini/0",
-    "HTML-CSS-JavaScript_Workspace/DOM Gemini",
     "HTML-CSS-JavaScript_Workspace/DOM.canvas"
   ]
 }

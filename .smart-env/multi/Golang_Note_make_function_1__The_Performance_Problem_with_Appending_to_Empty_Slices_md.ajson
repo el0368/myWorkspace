@@ -1,0 +1,2 @@
+
+"smart_sources:Golang_Note/make function/1. The Performance Problem with Appending to Empty Slices.md": {"path":"Golang_Note/make function/1. The Performance Problem with Appending to Empty Slices.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"1q7gaua","at":1752772041866},"class_name":"SmartSource","last_import":{"mtime":1751948697793,"size":2736,"at":1752772041866,"hash":"1q7gaua"},"blocks":{"#":[1,35],"#---frontmatter---":[7,34],"###The Performance Cost":[36,42],"###The Performance Cost#{1}":[38,42]},"outlinks":[]},
