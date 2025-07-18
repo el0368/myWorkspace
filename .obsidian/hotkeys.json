@@ -1,0 +1,34 @@
+{
+  "gemini-generator:generate-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "gemini-assistant:gemini-chat": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "gemini-scribe:gemini-scribe-open-view": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
+    }
+  ],
+  "gemini-scribe:gemini-scribe-summarize-active-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
+    }
+  ]
+}
