@@ -13,12 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/3.1.md",
+                "file": "a. JavaScript for Vue/Module2. Modern JavaScript (ES6+ for Vue Developers)/2.1 Enhanced Readability and Syntax/0..md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1"
+              "title": "0."
+            }
+          }
+        ]
+      },
+      {
+        "id": "10199eba2fa1b72d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6c4c93250ca60ce",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a. JavaScript for Vue/0/0. JavaScript for Vue.js - A Comprehensive Preparatory Course.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "0. JavaScript for Vue.js - A Comprehensive Preparatory Course"
             }
           }
         ]
@@ -78,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.49999618530273
+    "width": 576.5061416625977
   },
   "right": {
     "id": "98911552bffb881e",
@@ -168,43 +190,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91b72b7c7fa42ac5",
+  "active": "a6c4c93250ca60ce",
   "lastOpenFiles": [
-    "50-projects-in-50-days-html-css-javascript/Day1/style.css",
-    "50-projects-in-50-days-html-css-javascript/Day1/script.js",
-    "50-projects-in-50-days-html-css-javascript/Day1/index.html",
-    "50-projects-in-50-days-html-css-javascript/Day1",
-    "50-projects-in-50-days-html-css-javascript",
-    "New folder",
-    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/3.md",
-    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/3.1.md",
-    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/1.1.md",
-    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/1.md",
-    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/2.1.md",
-    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/2.md",
-    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/0.1 css.md",
-    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/0. html.md",
-    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/6.md",
-    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/5.md",
-    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/4.md",
-    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/1. console.dir.md",
-    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/main.js",
-    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/styles.css",
-    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1/index.html",
-    "main DOM/Travesry Media/JavaScript DOM Crash Course - Part 1",
-    "Working with the DOM/149.md",
-    "main DOM/Travesry Media",
-    "Working with the DOM/148.md",
-    "main DOM/DOM - Complete Guide Part 1/3. Accessing The DOM/0.md",
-    "main DOM/DOM - Complete Guide Part 1/3. Accessing The DOM/29.md",
-    "main DOM/DOM - Complete Guide Part 1/3. Accessing The DOM/38..md",
-    "main DOM/DOM - Complete Guide Part 1/3. Accessing The DOM/38.1.md",
-    "main DOM/DOM - Complete Guide Part 1/3. Accessing The DOM/44. getElementsByTagName.md",
-    "main DOM/DOM - Complete Guide Part 1/3. Accessing The DOM/45..md",
-    "main DOM/DOM - Complete Guide Part 1/3. Accessing The DOM/45.1 querySelector - Introduction.md",
-    "main DOM/DOM - Complete Guide Part 1/3. Accessing The DOM/47. querySelector - practical example.md",
-    "main DOM/DOM - Complete Guide Part 1/5. Nodes 1/2.md",
+    "a. JavaScript for Vue/Module2. Modern JavaScript (ES6+ for Vue Developers)/2.1 Enhanced Readability and Syntax/0..md",
+    "a. JavaScript for Vue/Module2. Modern JavaScript (ES6+ for Vue Developers)/2.1 Enhanced Readability and Syntax/1. Destructuring.md",
+    "a. JavaScript for Vue/Module1. The Core Fundamentals/1.4 Objects and Arrays- Handling Data/3. The this Keyword.md",
+    "a. JavaScript for Vue/0/0. JavaScript for Vue.js - A Comprehensive Preparatory Course.md",
+    "a. JavaScript for Vue/Module1. The Core Fundamentals/1.4 Objects and Arrays- Handling Data/2. Array Methods.md",
+    "a. JavaScript for Vue/Module1. The Core Fundamentals/1.4 Objects and Arrays- Handling Data/1. Object Literal-Creating and manipulating objects..md",
+    "a. JavaScript for Vue/Module1. The Core Fundamentals/1.1 Variables, Scope, and Data Types/1. Key Concepts Variables, Scope, & Data Types/0..md",
+    "a. JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks/1. Function Declarations vs. Expressions.md",
+    "a. JavaScript for Vue/Module1. The Core Fundamentals/1.3 Functions-The Building Blocks/1.2. Arrow Functions - The Modern Standard 🚀.md",
+    "a. JavaScript for Vue/Module1. The Core Fundamentals/1.2 Control Flow and Logic/1.2 Control Flow and Logic.md",
+    "a. JavaScript for Vue/Module1. The Core Fundamentals/1.1 Variables, Scope, and Data Types/1. Key Concepts Variables, Scope, & Data Types/3. Data Types.md",
+    "a. JavaScript for Vue/Module1. The Core Fundamentals/1.1 Variables, Scope, and Data Types/1. Key Concepts Variables, Scope, & Data Types/2. Scope.md",
+    "a. JavaScript for Vue/Module1. The Core Fundamentals/1.1 Variables, Scope, and Data Types/1. Key Concepts Variables, Scope, & Data Types/1. Key Concepts Variables, Scope, & Data Types.md",
+    "a. DOM for Vue/0.1.md",
+    "a. DOM for Vue/0.md",
+    "main DOM/Document Object Model/10. Replace Elements.md",
+    "a. DOM for Vue",
+    "main DOM/Document Object Model/11. Remove Elements.md",
+    "main DOM/Document Object Model/9. Insert Elements, Text & HTML.md",
+    "main DOM/Document Object Model/8. Refactor To Multiple Functions.md",
+    "main DOM/Document Object Model/7. InnerHTML vs createElement().md",
+    "main DOM/Document Object Model/6. Create & Append Elements.md",
+    "main DOM/Document Object Model/5. Traversing The DOM - Nodes.md",
+    "main DOM/Document Object Model/4. Traversing The DOM - Elements.md",
+    "main DOM/Document Object Model/3. DOM Selectors - Multiple Elements.md",
+    "main DOM/Document Object Model/2. DOM Selectors - Single Elements.md",
     "main DOM/DOM - Complete Guide Part 1/5. Nodes 1/1.md",
-    "main DOM/DOM - Complete Guide Part 1/5. Nodes 1/0.md"
+    "main DOM/Document Object Model",
+    "50-projects-in-50-days-html-css-javascript/Day2 Progress Steps/style.css",
+    "50-projects-in-50-days-html-css-javascript/Day2 Progress Steps/index.html",
+    "50-projects-in-50-days-html-css-javascript/Day2 Progress Steps/script.js",
+    "50-projects-in-50-days-html-css-javascript/Day2 Progress Steps",
+    "50-projects-in-50-days-html-css-javascript/Day1 Expanding Cards/style.css",
+    "50-projects-in-50-days-html-css-javascript/Day1 Expanding Cards/script.js",
+    "50-projects-in-50-days-html-css-javascript/Day1 Expanding Cards/index.html",
+    "50-projects-in-50-days-html-css-javascript/Day1 Expanding Cards"
   ]
 }
