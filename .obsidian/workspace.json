@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/1.Array & Hashing/1. Easy/1. Contain Duplicate 0.md",
+                "file": "JavaScript_Workspace/Max JavaScript - The Complete Guide/Section 6 More on Functions/127. Functions vs Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Contain Duplicate 0"
+              "title": "127. Functions vs Methods"
             }
           }
         ]
@@ -203,8 +203,23 @@
       "gemini-scribe:Open Gemini Chat": false
     }
   },
-  "active": "fe6c0e9d63e122ab",
+  "active": "e0c7c627302eb5c8",
   "lastOpenFiles": [
+    "HTML-CSS-JavaScript_Workspace/CSS/1. To master modern CSS layout/2. CSS Grid.md",
+    "JavaScript_Workspace/Max JavaScript - The Complete Guide/Section 6 More on Functions/127. Functions vs Methods.md",
+    "JavaScript_Workspace/Max JavaScript - The Complete Guide/Section 6 More on Functions",
+    "HTML-CSS-JavaScript_Workspace/HTML/0.md",
+    "HTML-CSS-JavaScript_Workspace/HTML/1.md",
+    "HTML-CSS-JavaScript_Workspace/Jonas JavaScript/Section 3 - JavaScript Fundamental Part 2/34.1 FAQ.md",
+    "HTML-CSS-JavaScript_Workspace/Jonas JavaScript/Section 7 - JavaScript in the browser DOM/75. What's the DOM and DOM Manipulation.md",
+    "HTML-CSS-JavaScript_Workspace/Jonas JavaScript/Section 7 - JavaScript in the browser DOM/76. Selecting and Manipulating Elements.md",
+    "JavaScript_Workspace/Max JavaScript - The Complete Guide/Section 4 Working with Control Structure/79. Beware When Comparing Objects & Arrays for Equality!.md",
+    "JavaScript_Workspace/Max JavaScript - The Complete Guide/Section 4 Working with Control Structure/77. Using \"if\" Statements.md",
+    "JavaScript_Workspace/Max JavaScript - The Complete Guide/Section 4 Working with Control Structure/75. Introducing \"if\" Statements & Boolean (Comparison) Operators.md",
+    "JavaScript_Workspace/Max JavaScript - The Complete Guide/Section 4 Working with Control Structure/76. Using Booleans in Conditions & More on Text Comparisons.md",
+    "Golang_DSA/Section 4 Introduction/44. Time and Space Complexity/0. Time and Space Complexity.md",
+    "JavaScript_Workspace/Max JavaScript - The Complete Guide/Section 4 Working with Control Structure",
+    "JavaScript_Workspace/Max JavaScript - The Complete Guide",
     "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/1.Array & Hashing/1. Easy/1. Contain Duplicate 0.md",
     "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "NeetCode-Data Structure and Algorithms/Python/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
@@ -221,18 +236,6 @@
     "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/9. Backtracking/2. Medium/11. Letter Combinations of a Phone Number.md",
     "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/9. Backtracking/2. Medium/1. Subsets.md",
     "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/8. Tries/3. Hard/3. Word Search II.md",
-    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/8. Tries/2. Medium/2. Design Add And Search Words Data Structure.md",
-    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/8. Tries/2. Medium/1. Implement Trie Prefix Tree.md",
-    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/7. Trees/3. Hard/34. Serialize And Deserialize Binary Tree.md",
-    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/7. Trees/3. Hard/33. Binary Tree Maximum Path Sum.md",
-    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/7. Trees/1. Easy/9. Subtree of Another Tree.md",
-    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/7. Trees/1. Easy/8. Same Tree.md",
-    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/7. Trees/1. Easy/7. Balanced Binary Tree.md",
-    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/7. Trees/1. Easy/6. Diameter of Binary Tree.md",
-    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/7. Trees/1. Easy/5. Maximum Depth of Binary Tree.md",
-    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/7. Trees/1. Easy/4. Invert Binary Tree.md",
-    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/7. Trees/2. Medium/22. Construct Binary Tree From Preorder And Inorder Traversal.md",
-    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/7. Trees/2. Medium/21. Kth Smallest Element In a Bst.md",
     "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/9. Backtracking/3. Hard",
     "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/9. Backtracking/2. Medium",
     "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/8. Tries/3. Hard",
@@ -240,9 +243,6 @@
     "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/7. Trees/3. Hard",
     "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/7. Trees/1. Easy",
     "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/7. Trees/2. Medium",
-    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/6. Linked List/3. Hard",
-    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/6. Linked List/2. Medium",
-    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/6. Linked List/1. Easy",
     "NeetCode-Data Structure and Algorithms/Rust/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
     "Rust_DSA/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
     "Rust_DSA/Neetcode150/0. Roadmap/0. Roadmap.canvas",
