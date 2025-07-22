@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 5 Recursion/Q&A/Calling time and Returning time.md",
+                "file": "Section 5 Recursion/55. Tree Recursion/Rust/Tree Recursion.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calling time and Returning time"
+              "title": "Tree Recursion"
             }
           }
         ]
@@ -165,8 +165,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f87112e3d978acb3",
+  "active": "f598dad82960c9da",
   "lastOpenFiles": [
+    "CodeWars/Rust/1.Convert a Boolean to a String.md",
+    "Section 5 Recursion/55. Tree Recursion/Rust/Tree Recursion.md",
+    "Section 5 Recursion/55. Tree Recursion/Untitled.md",
+    "Section 5 Recursion/55. Tree Recursion/55. Tree Recursion.md",
+    "Section 5 Recursion/55. Tree Recursion/Rust",
+    "CodeWars/Rust",
+    "CodeWars",
+    "Section 5 Recursion/55. Tree Recursion",
+    "Section 5 Recursion/53. Tail Recursion/53.md",
+    "Section 5 Recursion/51. Static and Global Variables in Recursion/1. Baseline - Recursion with Local Variables.md",
+    "GoFiles/recursion/__debug_bin2093648201.exe",
+    "GoFiles/recursion/__debug_bin1502481337.exe",
+    "GoFiles/recursion/__debug_bin3427365733.exe",
+    "GoFiles/recursion/__debug_bin2318631594.exe",
+    "GoFiles/recursion/__debug_bin3715139158.exe",
+    "GoFiles/recursion/__debug_bin2230801645.exe",
+    "Section 5 Recursion/51. Static and Global Variables in Recursion/2. -Static- Variable Concept in Go (Closures).md",
+    "Section 5 Recursion/51. Static and Global Variables in Recursion/0.md",
+    "Section 5 Recursion/51. Static and Global Variables in Recursion/3.  Tracing Recursion with a Shared (Closed-Over) Variable.md",
+    "Section 5 Recursion/51. Static and Global Variables in Recursion/4. Comparison to Package-Level (Global) Variables.md",
+    "Section 5 Recursion/51. Static and Global Variables in Recursion/0.2.md",
+    "Section 5 Recursion/51. Static and Global Variables in Recursion/0.1 static variable in general programming terms..md",
+    "Section 5 Recursion/54.1. Tail and Head Recursion/Recursion convert to For loop.md",
+    "Section 5 Recursion/54.1. Tail and Head Recursion/Recursion and for loops mechanisms.md",
+    "Section 5 Recursion/Q&A/Calling time and Returning time.md",
     "a.Python/Python Fundamental/Section 6 Strings/62. Unicode - Coding.md",
     "a.Python/Python Fundamental/Section 6 Strings/66. String Interpolation.md",
     "a.Python/Python Fundamental/Section 6 Strings/64. Common String Methods.md",
@@ -178,31 +203,6 @@
     "a.Python/Python Fundamental/Section 9 Sets/90. Common Set Operations - Coding.md",
     "a.Python/Python Fundamental/Section 9 Sets/2.md",
     "a.Python/Python Fundamental/Section 9 Sets/88. Python Sets - Coding.md",
-    "a.Python/Python Fundamental/Section 9 Sets/87. Python Sets - Lecture.md",
-    "a.Python/Python Fundamental/Section 9 Sets/1.md",
-    "a.Python/Python Fundamental/Section 8 Dictionary/84. Working with Dictionaries - Coding.md",
-    "a.Python/Python Fundamental/Section 8 Dictionary/83. Working with Dictionaries - Lecture.md",
-    "a.Python/Python Fundamental/Section 8 Dictionary/82. Iterating Dicionaries - Coding.md",
-    "a.Python/Python Fundamental/Section 8 Dictionary/81. Iterating Dicionaries - Lecture.md",
-    "a.Python/Python Fundamental/Section 8 Dictionary/80.  Associative Arrays and Dictionaries - Coding.md",
-    "a.Python/Python Fundamental/Section 8 Dictionary/79. Associative Arrays and Dictionaries - Lecture.md",
-    "a.Python/Python Fundamental/Section 5 Sequence Types/6. unpacking sequence.md",
-    "a.Python/Python Fundamental/Section 5 Sequence Types/5.2 copy sequence.md",
-    "a.Python/Python Fundamental/Section 5 Sequence Types/5.1 copy sequence.md",
-    "a.Python/Python Fundamental/Section 5 Sequence Types/5. copy sequence.md",
-    "a.Python/Python Fundamental/Section 5 Sequence Types/3. slicing.md",
-    "a.Python/Python Fundamental/Section 5 Sequence Types/4. manipulating sequence.md",
-    "a.Python/Python Fundamental/Section 7 Iteration/4. Continue, Break and else.md",
-    "a.Python/Python Fundamental/Section 6 Strings",
-    "a.Python/Python Fundamental/Section 9 Sets",
-    "a.Python/Python Fundamental/Section 8 Dictionary",
-    "a.Python/Python Fundamental/Section 5 Sequence Types",
-    "a.Python/Python Fundamental/Section 7 Iteration",
-    "a.Python/Python Fundamental/Section 31 Matplotlib",
-    "a.Python/Python Fundamental/Section 4 Conditional Execution",
-    "a.Python/Python Fundamental/Section 30 Pandas",
-    "a.Python/Python Fundamental/Section 28 3rd Party Libraries",
-    "a.Python/Python Fundamental/Section 29 NumPy",
     "a.Python/Python - Data Structure and Algorithms/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
     "a.Python/Python - Data Structure and Algorithms/Neetcode150/0. Roadmap/0. Roadmap.canvas"
   ]
