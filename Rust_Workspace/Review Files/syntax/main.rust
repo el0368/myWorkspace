@@ -1,0 +1,4 @@
+fn main() {
+    score: i32 = 100;
+    score = 150;
+}
