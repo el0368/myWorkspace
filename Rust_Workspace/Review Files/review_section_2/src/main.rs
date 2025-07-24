@@ -1,14 +1,19 @@
 
-const MAX_RETRUES: u8 = 3;
+fn fun1(num: i64) {
+    if num == 0 {
+        return
+    }
+    
+    println!("{}", num);
+    fun1(num - 1);
+}
 
 fn main() {
-    // let score: i32 = 100;
-    // score = 150;
-    // println!("{}", score);
 
-    let mut temperature: f64 = 25.5;
-    temperature = 30.2;
-    println!("{}", temperature);
+    let num: i64 = 3;
+    fun1(num);
 
 
 }
+
+

@@ -6,6 +6,7 @@
       {
         "id": "bcaac9da3f0929f3",
         "type": "tabs",
+        "dimension": 57.88745387453874,
         "children": [
           {
             "id": "e0c7c627302eb5c8",
@@ -13,12 +14,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/104. The String Type.md",
+                "file": "Discrete Mathematic/0..md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "104. The String Type"
+              "title": "0."
+            }
+          },
+          {
+            "id": "787cc516999dfd6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Golang_DSA/Section 5 Recursion/63. Factorial using Recursion/63. Factorial using Recursion.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "63. Factorial using Recursion"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "38d06cf2d284d966",
+        "type": "tabs",
+        "dimension": 42.11254612546125,
+        "children": [
+          {
+            "id": "fe6c0e9d63e122ab",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Golang_DSA/Section 4 Introduction/44. Time and Space Complexity/0. Time and Space Complexity.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "0. Time and Space Complexity"
             }
           }
         ]
@@ -179,44 +218,44 @@
       "gemini-scribe:Open Gemini Chat": false
     }
   },
-  "active": "e0c7c627302eb5c8",
+  "active": "787cc516999dfd6b",
   "lastOpenFiles": [
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9ifx9ka74-00r510h-9piaw2b9i4oc5fctp0jpsd35q/work-products.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9ifx9ka74-00r510h-9piaw2b9i4oc5fctp0jpsd35q/dep-graph.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9ifx9ka74-00r510h-9piaw2b9i4oc5fctp0jpsd35q/query-cache.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9ifx9ka74-00r510h-9piaw2b9i4oc5fctp0jpsd35q",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9ifx9kaaz-0a909sf-6k4yf95kn4wtu0xq1548qqimf/query-cache.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9ifx9kaaz-0a909sf-6k4yf95kn4wtu0xq1548qqimf/dep-graph.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9ifx9kaaz-0a909sf-6k4yf95kn4wtu0xq1548qqimf/work-products.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9ifx9kaaz-0a909sf-6k4yf95kn4wtu0xq1548qqimf",
+    "Golang_DSA/Section 5 Recursion/63. Factorial using Recursion",
+    "Golang_DSA/Section 5 Recursion/61. Sum of the first 'n' natural numbers/Rust/61. Sum of the first 'n' natural numbers.md",
+    "Golang_DSA/Section 5 Recursion/63. Factorial using Recursion/63. Factorial using Recursion.md",
+    "Golang_DSA/Section 5 Recursion/61. Sum of the first 'n' natural numbers/Rust",
+    "Golang_DSA/Section 5 Recursion/61. Sum of the first 'n' natural numbers",
+    "Rust_Workspace/Course/Era4.md",
+    "Rust_Workspace/Course/Era3.md",
+    "Rust_Workspace/Course/Era2.md",
+    "Rust_Workspace/Course/Era1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 2 Variables and Mutability/34. Variable Shadowing.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 2 Variables and Mutability/35. Scopes.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 2 Variables and Mutability/36. Constants.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 2 Variables and Mutability/37. Type Aliases.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 2 Variables and Mutability/38. Compiler Directives.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 2 Variables and Mutability/41. Section Review.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 2 Variables and Mutability/41.2.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 2 Variables and Mutability/41.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/Untitled.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/72. Intro to Functions.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 5 Control Flow/82. The if Statement.md",
+    "JavaScript_Workspace/b. Max JavaScript - The Complete Guide/Section 6 More on Functions/136. Outputting Messages to the User.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/105. The push_str Method on a String Type.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/104. The String Type.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/103. The Copy Trait.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/102. Scope and Ownership.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/101. The Stack and Heap.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/100. Intro to Ownership.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/119.1.md",
-    "Discrete Mathematic/0..md",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9hhgox0og-172wb2c-4jqgpzmky7zi5uebby4umhw7r/work-products.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9hhgox0og-172wb2c-4jqgpzmky7zi5uebby4umhw7r/query-cache.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9hhgox0og-172wb2c-4jqgpzmky7zi5uebby4umhw7r/dep-graph.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1ms261446zrlj/s-h9hhcqstie-1cee8jz-working/work-products.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1ms261446zrlj/s-h9hhcqstie-1cee8jz-working/query-cache.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1ms261446zrlj/s-h9hhcqstie-1cee8jz-working/e8utsiirzaljvgy3umeogteyx.o",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1ms261446zrlj/s-h9hhcqstie-1cee8jz-working/etli50aefnu9wdw1nekmnbhpd.o",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1ms261446zrlj/s-h9hhcqstie-1cee8jz-working/dep-graph.part.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1ms261446zrlj/s-h9hhcqstie-1cee8jz-working/dep-graph.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1ms261446zrlj/s-h9hhab2x6n-0cd5tnn-4g34jo2e8o4vjoinrfqigiow0/work-products.bin",
-    "Rust_Workspace/Learn to Code with Rust/Section 3 Data Type/Vocabularies/Vocabularies.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 3 Data Type/Vocabularies/71.9.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 3 Data Type/Vocabularies/71.8.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 3 Data Type/Vocabularies/71.7.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 3 Data Type/Vocabularies/71.6.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 3 Data Type/Vocabularies/71.5.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 3 Data Type/Vocabularies/71.4.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 3 Data Type/Vocabularies/71.2.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 3 Data Type/Vocabularies/71.3.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 3 Data Type/Vocabularies/71.1.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 3 Data Type/Vocabularies/71.10.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 3 Data Type/Vocabularies/71.0.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 5 Control Flow/Untitled.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 5 Control Flow/Untitled 1.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 5 Control Flow/98.1.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 5 Control Flow/90. The continue Keyword.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 5 Control Flow/92. Recursion.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 5 Control Flow/93. Debugging in VSCode I.md",
+    "JavaScript_Workspace/b. Max JavaScript - The Complete Guide/Section 6 More on Functions/135. Different Arrow Function Syntaxes.md",
+    "JavaScript_Workspace/b. Max JavaScript - The Complete Guide/Section 6 More on Functions/134.md",
+    "JavaScript_Workspace/b. Max JavaScript - The Complete Guide/Section 6 More on Functions/133.md",
     "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "NeetCode-Data Structure and Algorithms/Python/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
     "NeetCode-Data Structure and Algorithms/Rust/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
