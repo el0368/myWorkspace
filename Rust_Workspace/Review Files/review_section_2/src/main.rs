@@ -1,19 +1,12 @@
 
-fn fun1(num: i64) {
-    if num == 0 {
-        return
-    }
-    
-    println!("{}", num);
-    fun1(num - 1);
+fn main() {
+    let burger: String = String::from("Burger");
+    add_fries(burger);
+
 }
 
-fn main() {
-
-    let num: i64 = 3;
-    fun1(num);
-
-
+fn add_fries(mut meal: String) {
+    meal.push_str(" and Fries");
 }
 
 
