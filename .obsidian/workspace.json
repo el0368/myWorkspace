@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/101. The Stack and Heap.md",
-                "mode": "preview",
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/114. Mutable Parameters.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "101. The Stack and Heap"
+              "title": "114. Mutable Parameters"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 502.49999618530273
   },
   "right": {
     "id": "7851adcc0dd01f23",
@@ -181,6 +181,10 @@
   },
   "active": "787cc516999dfd6b",
   "lastOpenFiles": [
+    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/1.Array & Hashing/1. Easy/1. Contain Duplicate 217.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/114. Mutable Parameters.md",
+    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/1.Array & Hashing/1. Easy/1. Contain Duplicate 219.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/101. The Stack and Heap.md",
     "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9jdlek8n4-08wk2wh-working/work-products.bin",
     "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9jdlek8n4-08wk2wh-working/query-cache.bin",
     "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9jdlek8n4-08wk2wh-working/dep-graph.bin",
@@ -191,9 +195,7 @@
     "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9jdlek8jr-03vkwde-working/dep-graph.part.bin",
     "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9jdlek8jr-03vkwde-working/dep-graph.bin",
     "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9jdlek8jr-03vkwde-working",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9jdlek8n4-08wk2wh.lock",
     "Discrete Mathematic/0..md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/101. The Stack and Heap.md",
     "Golang_DSA/Section 4 Introduction/44. Time and Space Complexity/0. Time and Space Complexity.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/100. Intro to Ownership.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/113. Ownership and Function Parameters.md",
@@ -215,8 +217,6 @@
     "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/2. Medium/5. Subsets II.md",
     "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/2. Medium/2. Combination Sum.md",
     "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/2. Medium/3. Combinations.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/2. Medium/14. Find Unique Binary String.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/2. Medium/16. Partition to K Equal Sum Subsets.md",
     "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
     "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "NeetCode-Data Structure and Algorithms/Python/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
