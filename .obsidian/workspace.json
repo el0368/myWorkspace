@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/113. Ownership and Function Parameters.md",
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/119.1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "113. Ownership and Function Parameters"
+              "title": "119.1"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "e0c7c627302eb5c8",
   "lastOpenFiles": [
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/100. Intro to Ownership.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/112. The Copy Trait with References.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/113. Ownership and Function Parameters.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/111. String, &String, str, and &str.md",
@@ -189,7 +190,6 @@
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/108. The clone Method.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/107. The drop Function.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/106. Moves and Ownership.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/100. Intro to Ownership.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/101. The Stack and Heap.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/102. Scope and Ownership.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/103. The Copy Trait.md",
