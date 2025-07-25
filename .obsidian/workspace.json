@@ -6,58 +6,19 @@
       {
         "id": "bcaac9da3f0929f3",
         "type": "tabs",
-        "dimension": 57.88745387453874,
         "children": [
-          {
-            "id": "e0c7c627302eb5c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discrete Mathematic/0..md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0."
-            }
-          },
           {
             "id": "787cc516999dfd6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang_DSA/Section 5 Recursion/63. Factorial using Recursion/63. Factorial using Recursion.md",
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/101. The Stack and Heap.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "63. Factorial using Recursion"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "38d06cf2d284d966",
-        "type": "tabs",
-        "dimension": 42.11254612546125,
-        "children": [
-          {
-            "id": "fe6c0e9d63e122ab",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang_DSA/Section 4 Introduction/44. Time and Space Complexity/0. Time and Space Complexity.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "0. Time and Space Complexity"
+              "title": "101. The Stack and Heap"
             }
           }
         ]
@@ -218,8 +179,32 @@
       "gemini-scribe:Open Gemini Chat": false
     }
   },
-  "active": "c16f216c8de91cf8",
+  "active": "787cc516999dfd6b",
   "lastOpenFiles": [
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9jdlek8n4-08wk2wh-working/work-products.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9jdlek8n4-08wk2wh-working/query-cache.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9jdlek8n4-08wk2wh-working/dep-graph.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9jdlek8n4-08wk2wh-working/dep-graph.part.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9jdlek8n4-08wk2wh-working",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9jdlek8jr-03vkwde-working/work-products.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9jdlek8jr-03vkwde-working/query-cache.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9jdlek8jr-03vkwde-working/dep-graph.part.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9jdlek8jr-03vkwde-working/dep-graph.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9jdlek8jr-03vkwde-working",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9jdlek8n4-08wk2wh.lock",
+    "Discrete Mathematic/0..md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/101. The Stack and Heap.md",
+    "Golang_DSA/Section 4 Introduction/44. Time and Space Complexity/0. Time and Space Complexity.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/100. Intro to Ownership.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/113. Ownership and Function Parameters.md",
+    "Golang_DSA/Section 5 Recursion/63. Factorial using Recursion/63. Factorial using Recursion.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/112. The Copy Trait with References.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/111. String, &String, str, and &str.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/110. The Dereference Operator.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/109. References and Borrowing.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/108. The clone Method.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/107. The drop Function.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/106. Moves and Ownership.md",
     "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/3. Hard/18. N Queens II.md",
     "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/2. Medium/9. Palindrome Partitioning.md",
     "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/3. Hard/17. N Queens.md",
@@ -232,30 +217,6 @@
     "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/2. Medium/3. Combinations.md",
     "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/2. Medium/14. Find Unique Binary String.md",
     "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/2. Medium/16. Partition to K Equal Sum Subsets.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/2. Medium/12. Matchsticks to Square.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/2. Medium/15. Maximum Length of a Concatenated String With Unique Characters.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/2. Medium/13. Splitting a String Into Descending Consecutive Values.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/2. Medium/11. Letter Combinations of a Phone Number.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/2. Medium/10. Restore IP Addresses.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/2. Medium/1. Subsets.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/8. Tries/2. Medium/2. Design Add And Search Words Data Structure.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/8. Tries/2. Medium/1. Implement Trie Prefix Tree.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/8. Tries/3. Hard/3. Word Search II.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/3. Stack/2. Medium/9. Online stock span.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/3. Stack/2. Medium/8. Daily temperatures.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/3. Stack/2. Medium/7. Asteroid collision.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/3. Stack/2. Medium/6. Generate parentheses.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/3. Stack/2. Medium/5. Evaluate reverse polish notation.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/3. Hard",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/9. Backtracking/2. Medium",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/8. Tries/2. Medium",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/8. Tries/3. Hard",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/3. Stack/2. Medium",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/3. Stack/3. Hard",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/3. Stack/1. Easy",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/6. Linked List/3. Hard",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/6. Linked List/1. Easy",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/5. Sliding Window/3. Hard",
     "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
     "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "NeetCode-Data Structure and Algorithms/Python/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
