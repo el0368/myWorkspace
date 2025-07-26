@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "787cc516999dfd6b",
+            "id": "e0c7c627302eb5c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/102. Scope and Ownership.md",
+                "file": "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/27. Module Introduction.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "102. Scope and Ownership"
+              "title": "27. Module Introduction"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.49999618530273
+    "width": 405.5
   },
   "right": {
     "id": "7851adcc0dd01f23",
@@ -179,51 +179,50 @@
       "gemini-scribe:Open Gemini Chat": false
     }
   },
-  "active": "787cc516999dfd6b",
+  "active": "e0c7c627302eb5c8",
   "lastOpenFiles": [
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/103. The Copy Trait.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 3 Installation/24. Setting Up Visual Studio Code With The SQLTools Extension (Course Environment).md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/27. Module Introduction.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 3 Installation/25. Configuring VS Code & Exploring SQLTools.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 3 Installation/PostgreSQL 1.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/0. SQL files/test.sql",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/0. SQL files/postgres1.session.sql",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/0. SQL files/mysql1.session.sql",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 3 Installation/PostgreSQL.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/102. Scope and Ownership.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/101.1. Data lives on the Stack or the Heap.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/101. The Stack and Heap.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/100. Intro to Ownership.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/0. SQL files",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 3 Installation",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/101.1. whether data lives on the Stack or the Heap.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/119.1.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 2 SQL Syntax and Core Features/13. Data Definition vs Data Manipulation.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 2 SQL Syntax and Core Features/12. The Core SQL Rules.md",
     "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 2 SQL Syntax and Core Features/11. SQL in Action.md",
-    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 1 Getting Start/0.1 (Windows) VS Code Connection Errors After Password Reset.md",
-    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 1 Getting Start/0.0 (Windows) Reset Root Password on Windows.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 2 SQL Syntax and Core Features/10. Understanding The Core SQL Syntax.md",
     "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 1 Getting Start/5.md",
     "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 1 Getting Start/3. A Closer Look At SQL & Databases.md",
-    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 2 SQL Syntax and Core Features/12. The Core SQL Rules.md",
-    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 2 SQL Syntax and Core Features/13. Data Definition vs Data Manipulation.md",
-    "Mastering Data Structures & Algorithms using C and C++/Section 5 Recursion/63. Factorial using Recursion/63. Factorial using Recursion.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/119. Section Review.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 5 Control Flow/98.1.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 5 Control Flow/98. Section Review.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 5 Control Flow/89. The loop and break Keywords.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 5 Control Flow/Untitled 1.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 5 Control Flow/Untitled.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/119.1.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/116. Return Values II.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/115. Return Values I.md",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9jdt680wd-0ekgfco-agpos0n0pkahyri194cwhjp8l/query-cache.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9jdt680wd-0ekgfco-agpos0n0pkahyri194cwhjp8l/dep-graph.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9jdt680wd-0ekgfco-agpos0n0pkahyri194cwhjp8l/work-products.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9jdt680wd-0ekgfco-agpos0n0pkahyri194cwhjp8l",
-    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 2 SQL Syntax and Core Features/10. Understanding The Core SQL Syntax.md",
-    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 2 SQL Syntax and Core Features",
     "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 1 Getting Start/2. What is SQL.md",
-    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 1 Getting Start/Untitled",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 2 SQL Syntax and Core Features",
     "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 1 Getting Start",
     "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9jdt680wd-0ekgfco.lock",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/119. Section Review.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/116. Return Values II.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/115. Return Values I.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/114. Mutable Parameters.md",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9jdt680yi-17ksl1z-9btbr2t1k63umnuw2jiesmhx7/work-products.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9jdt680yi-17ksl1z-9btbr2t1k63umnuw2jiesmhx7/query-cache.bin",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/1.Array & Hashing/1. Easy/1. Contain Duplicate 217.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 5 Control Flow/98. Section Review.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/100. Intro to Ownership.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/112. The Copy Trait with References.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/113. Ownership and Function Parameters.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/111. String, &String, str, and &str.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/110. The Dereference Operator.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/109. References and Borrowing.md",
     "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
-    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "NeetCode-Data Structure and Algorithms/Python/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
-    "NeetCode-Data Structure and Algorithms/Rust/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
+    "NeetCode-Data Structure and Algorithms/Python/Neetcode150/0. Roadmap/0. Roadmap.canvas",
+    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "Rust_DSA/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
     "Rust_DSA/Neetcode150/0. Roadmap/0. Roadmap.canvas",
-    "NeetCode-Data Structure and Algorithms/Python/Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "HTML-CSS-JavaScript_Workspace/DOM.canvas"
   ]
 }
