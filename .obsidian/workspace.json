@@ -8,17 +8,101 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0c7c627302eb5c8",
+            "id": "787cc516999dfd6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/107. The drop Function.md",
+                "file": "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/41.1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "107. The drop Function"
+              "title": "41.1"
+            }
+          },
+          {
+            "id": "e95f043f49975339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/72. Intro to Functions.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "72. Intro to Functions"
+            }
+          },
+          {
+            "id": "b55337748c7f9da7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/73. Parameters and Arguments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "73. Parameters and Arguments"
+            }
+          },
+          {
+            "id": "397c3d701163b5e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/74. Explicit Return Values.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "74. Explicit Return Values"
+            }
+          },
+          {
+            "id": "fa633f36f2002e2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/75. Implicit Return Values.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "75. Implicit Return Values"
+            }
+          },
+          {
+            "id": "92bd7e7d2d8caa6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/76. The Unit as a Return Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "76. The Unit as a Return Type"
+            }
+          },
+          {
+            "id": "08d1417efb014b2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/77. Blocks in Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "77. Blocks in Functions"
             }
           }
         ]
@@ -73,12 +157,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "77db93b500bb04fd",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Gemini Scribe"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 323.49999618530273
   },
   "right": {
     "id": "7851adcc0dd01f23",
@@ -169,50 +263,51 @@
       "gemini-scribe:Open Gemini Chat": false
     }
   },
-  "active": "e0c7c627302eb5c8",
+  "active": "787cc516999dfd6b",
   "lastOpenFiles": [
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/108. The clone Method.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/41. Working with Enums & Finishing Table Creation.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/41.1.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/40. Creating a Numeric Value Column.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/40.1. Examples.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/39. Creating a First Text Column.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/38. Getting Started With The CREATE TABLE Statement & Syntax.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/37. How Do You Store Files.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/0. SQL files/SQL-COMPLETE-GUIDE/o2-create-user-table.sql",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/36. An Overview Of Numeric Value Types.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/35. Introducing Numeric Values, Date Types & More.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/34.1 FAQ.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/34. Introducing Key Text Value Types.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/33. The Importance Of Data Types (Value Types).md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/104.1 FAQ.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/104. The String Type.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/103.1 FAQ.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/103. The Copy Trait.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/107. The drop Function.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/108. The clone Method.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/101.1. Data lives on the Stack or the Heap.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/101.2 FAQ.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/72. Intro to Functions.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/Untitled.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/100. Intro to Ownership.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/101. The Stack and Heap.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/106.2 FAQ.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/106.1 FAQ.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/106. Moves and Ownership.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/105. The push_str Method on a String Type.md",
-    "Rust_Workspace/Course/Era1.md",
-    "Rust_Workspace/Course/0.md",
-    "Rust_Workspace/Course/Era2.md",
-    "Rust_Workspace/Course/Era3.md",
-    "Rust_Workspace/Course/Era4.md",
-    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/27. Module Introduction.md",
     "Golang_Workspace/Trevor Sawler/Pre-Algebra.formulas.pdf",
-    "Golang_Workspace/Trevor Sawler/Unconfirmed 323621.crdownload",
     "Golang_Workspace/Trevor Sawler/Master+the+Fundamentals+of+Math.zip",
-    "Golang_Workspace/Trevor Sawler/Unconfirmed 765400.crdownload",
-    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/32. Deleting Databases & IF NOT EXISTS.md",
-    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/31. Creating a new Database (CREATE DATABASE).md",
-    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/30. Introducing Key Data Definition Clauses.md",
-    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/29. Introducing The Course Section Example.md",
-    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/28. Key Terms When Working With Data Definition Statements & Commands.md",
-    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 1 Getting Start/0.1 (Windows) VS Code Connection Errors After Password Reset.md",
-    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 1 Getting Start/0.0 (Windows) Reset Root Password on Windows.md",
     "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/0. SQL files/SQL-COMPLETE-GUIDE/postgres17.session.sql",
     "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/0. SQL files/SQL-COMPLETE-GUIDE/mysql1.session.sql",
     "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/0. SQL files/SQL-COMPLETE-GUIDE/01-create-database.sql",
     "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/0. SQL files/SQL-COMPLETE-GUIDE",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/101.1. Data lives on the Stack or the Heap.md",
-    "Mastering Data Structures & Algorithms using C and C++/Section 5 Recursion/61. Sum of the first 'n' natural numbers/Rust/61. Sum of the first 'n' natural numbers.md",
-    "Mastering Data Structures & Algorithms using C and C++/Section 5 Recursion/55. Tree Recursion/Rust/Tree Recursion.md",
-    "Mastering Data Structures & Algorithms using C and C++/Section 5 Recursion/54. Head Recursion/Rust/2. The Difficulty of Converting Head Recursion to a Loop in Rust.md",
-    "Mastering Data Structures & Algorithms using C and C++/Section 5 Recursion/54. Head Recursion/Rust/1. Head Recursion - Definition and Characteristics in Rust.md",
-    "Mastering Data Structures & Algorithms using C and C++/Section 5 Recursion/53. Tail Recursion/Rust/2. Comparing Tail Recursion to an Iterative Loop.md",
-    "Mastering Data Structures & Algorithms using C and C++/Section 5 Recursion/53. Tail Recursion/Rust/1. Tail Recursion - Definition and Characteristics in Rust.md",
-    "Mastering Data Structures & Algorithms using C and C++/Section 5 Recursion/61. Sum of the first 'n' natural numbers/Rust",
-    "Mastering Data Structures & Algorithms using C and C++/Section 5 Recursion/55. Tree Recursion/Rust",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/0. SQL files/SQL-C",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/0. SQL files/New folder",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types",
     "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
-    "NeetCode-Data Structure and Algorithms/Python/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
-    "NeetCode-Data Structure and Algorithms/Python/Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/0. Roadmap/0. Roadmap.canvas",
+    "NeetCode-Data Structure and Algorithms/Python/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
+    "NeetCode-Data Structure and Algorithms/Rust/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
     "Rust_DSA/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
     "Rust_DSA/Neetcode150/0. Roadmap/0. Roadmap.canvas",
+    "NeetCode-Data Structure and Algorithms/Python/Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "HTML-CSS-JavaScript_Workspace/DOM.canvas"
   ]
 }
