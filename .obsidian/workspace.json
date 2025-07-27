@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/41.1.md",
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/111.2.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "41.1"
+              "title": "111.2"
             }
           },
           {
@@ -265,8 +265,17 @@
   },
   "active": "787cc516999dfd6b",
   "lastOpenFiles": [
-    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/41. Working with Enums & Finishing Table Creation.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/111.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/111. String, &String, str, and &str.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/112. The Copy Trait with References.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/111.2.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/72. Intro to Functions.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/110. The Dereference Operator.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/109. References and Borrowing.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/108. The clone Method.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/107. The drop Function.md",
     "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/41.1.md",
+    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/41. Working with Enums & Finishing Table Creation.md",
     "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/40. Creating a Numeric Value Column.md",
     "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/40.1. Examples.md",
     "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 4 Data Definition Managing Table and Working with Data Types/39. Creating a First Text Column.md",
@@ -282,16 +291,7 @@
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/104. The String Type.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/103.1 FAQ.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/103. The Copy Trait.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/107. The drop Function.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/108. The clone Method.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/101.1. Data lives on the Stack or the Heap.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/101.2 FAQ.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/72. Intro to Functions.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/Untitled.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/100. Intro to Ownership.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/101. The Stack and Heap.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/106.2 FAQ.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/106.1 FAQ.md",
     "Golang_Workspace/Trevor Sawler/Pre-Algebra.formulas.pdf",
     "Golang_Workspace/Trevor Sawler/Master+the+Fundamentals+of+Math.zip",
     "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/0. SQL files/SQL-COMPLETE-GUIDE/postgres17.session.sql",
