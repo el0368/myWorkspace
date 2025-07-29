@@ -1,4 +1,3 @@
 fn main() {
-    score: i32 = 100;
-    score = 150;
+    let my_literal: &str = "Hello";
 }
