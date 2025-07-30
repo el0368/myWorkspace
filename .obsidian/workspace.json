@@ -8,17 +8,101 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0c7c627302eb5c8",
+            "id": "787cc516999dfd6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/1. Easy/4. Next Greater Element I (LeetCode 496).md",
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 7 Reference and Borrowing/129.1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Next Greater Element I (LeetCode 496)"
+              "title": "129.1"
+            }
+          },
+          {
+            "id": "e95f043f49975339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/72. Intro to Functions.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "72. Intro to Functions"
+            }
+          },
+          {
+            "id": "b55337748c7f9da7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/73. Parameters and Arguments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "73. Parameters and Arguments"
+            }
+          },
+          {
+            "id": "397c3d701163b5e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/74. Explicit Return Values.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "74. Explicit Return Values"
+            }
+          },
+          {
+            "id": "fa633f36f2002e2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/75. Implicit Return Values.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "75. Implicit Return Values"
+            }
+          },
+          {
+            "id": "92bd7e7d2d8caa6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/76. The Unit as a Return Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "76. The Unit as a Return Type"
+            }
+          },
+          {
+            "id": "08d1417efb014b2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/77. Blocks in Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "77. Blocks in Functions"
             }
           }
         ]
@@ -73,12 +157,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "77db93b500bb04fd",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Gemini Scribe"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 620.5024719238281
+    "width": 296.50614166259766
   },
   "right": {
     "id": "7851adcc0dd01f23",
@@ -169,50 +263,52 @@
       "gemini-scribe:Open Gemini Chat": false
     }
   },
-  "active": "e0c7c627302eb5c8",
+  "active": "787cc516999dfd6b",
   "lastOpenFiles": [
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/1. Easy/4. Replace Elements with Greatest Element on Right Side (LeetCode 1299).md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/1. Easy/4. Next Greater Element I (LeetCode 496).md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/1. Easy/1. Contain Duplicate 217.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/1. Easy/2.  Valid Anagram 0.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/1. Easy/1. Contain Duplicate 2.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/1. Easy/1. Contain Duplicate 1.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/1. Easy/1. Contain Duplicate 0.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/1. Easy/6. Length of last word.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/1. Easy/5. Is subsequence.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/1. Easy/3. Concatenation of Array 1929.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/1. Easy/3. Concatenation of Array 1920.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/1. Easy/2. Valid Anagram 242.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/1. Easy/2. Valid Anagram 49.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/1. Easy/1. Contain Duplicate 220.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/1. Easy/1. Contain Duplicate 219.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/1. Array & Hashing/1. Easy/1. Contain Duplicate 217.md",
-    "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)/Section 1 Getting Start/5.md",
-    "Golang_Workspace/Neetcode/NeetcodeALL/1. Array & Hashing/1. Easy/8. Longest common prefix.md",
-    "Golang_Workspace/Neetcode/NeetcodeALL/1. Array & Hashing/1. Easy/7. Two Sum.md",
-    "Golang_Workspace/Neetcode/NeetcodeALL/1. Array & Hashing/1. Easy/6. Length of last word.md",
-    "Golang_Workspace/Neetcode/NeetcodeALL/1. Array & Hashing/1. Easy/5. Is subsequence.md",
-    "Golang_Workspace/Neetcode/NeetcodeALL/1. Array & Hashing/1. Easy/4. Replace Elements with greatest element on right side.md",
-    "Golang_Workspace/Neetcode/NeetcodeALL/1. Array & Hashing/1. Easy/4. Replace Elements with greatest element on right side 1.md",
-    "Golang_Workspace/Neetcode/NeetcodeALL/1. Array & Hashing/1. Easy/3. Concatenation of Array.md",
-    "Golang_Workspace/Neetcode/NeetcodeALL/1. Array & Hashing/1. Easy/3. Concatenation of Array 1.md",
-    "Golang_Workspace/Neetcode/NeetcodeALL/1. Array & Hashing/1. Easy/22. Design HashMap.md",
-    "Golang_Workspace/Neetcode/NeetcodeALL/1. Array & Hashing/3. Hard",
-    "Golang_Workspace/Neetcode/NeetcodeALL/1. Array & Hashing/2. Medium",
-    "Golang_Workspace/Neetcode/NeetcodeALL/1. Array & Hashing/1. Easy",
-    "Golang_Workspace/Neetcode/NeetcodeALL/1. Array & Hashing",
-    "Golang_Workspace/Neetcode/Neetcode150/1. Array & Hashing/3. Hard",
-    "Golang_Workspace/Neetcode/Neetcode150/1. Array & Hashing/2. Medium",
-    "Golang_Workspace/Neetcode/Neetcode150/1. Array & Hashing/1. Easy",
-    "Golang_Workspace/Neetcode/Neetcode150/1. Array & Hashing",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/1. Array & Hashing/3. Hard",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/1. Array & Hashing/2. Medium",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
-    "NeetCode-Data Structure and Algorithms/Python/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
-    "NeetCode-Data Structure and Algorithms/Python/Neetcode150/0. Roadmap/0. Roadmap.canvas",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9papopyjg-0zi5xgn-eshaerg6pl5he0djd6uqqltix/work-products.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9papopyjg-0zi5xgn-eshaerg6pl5he0djd6uqqltix/query-cache.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9papopyjg-0zi5xgn-eshaerg6pl5he0djd6uqqltix/dep-graph.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9papopyjg-0zi5xgn-eshaerg6pl5he0djd6uqqltix",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9papopyjg-0zi5xgn-working/dep-graph.part.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9papopykc-112luq5-working/query-cache.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9papopykc-112luq5-working/dep-graph.part.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9papopykc-112luq5-working/work-products.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9papopykc-112luq5-working/dep-graph.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9papopykc-112luq5-working",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9papopyjg-0zi5xgn-working/work-products.bin",
+    "Rust_Workspace/Learn to Code with Rust/Section 7 Reference and Borrowing/129. Section Review.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 7 Reference and Borrowing/129.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/119.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 7 Reference and Borrowing/121. Immutable and Mutable Reference Parameters.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 7 Reference and Borrowing/Untitled.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/24. Range sum query 2D immutable.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/3. Hard/26. First Missing Positive.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/9. Brick Wall.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/6. Longest consecutive sequence.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/8. Encode and decode tinyURL.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/7. Sort colors.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/25. Non Decreasing array.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/5. Encode and Decode Strings.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/4. Valid Sudoku.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/3. Product of array except self.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/23. Check if a String contains all binary codes of size K.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/22. Insert delete get random O(1).md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/21. repeated DNA sequences.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/20. push dominoes.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/2. Top K frequent elements.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/19. Continuous subarray sum.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/18. Largest Number.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/17. Wiggle sort.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/16. Find the index of the first occurrence in a String.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/15. Find all anagrams in a String.md",
     "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/0. Roadmap/0. Roadmap.canvas",
+    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
+    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/0. Roadmap/0. Roadmap.canvas",
+    "NeetCode-Data Structure and Algorithms/Python/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
+    "NeetCode-Data Structure and Algorithms/Rust/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
     "Rust_DSA/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
     "Rust_DSA/Neetcode150/0. Roadmap/0. Roadmap.canvas",
+    "NeetCode-Data Structure and Algorithms/Python/Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "HTML-CSS-JavaScript_Workspace/DOM.canvas"
   ]
 }
