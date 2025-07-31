@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0c7c627302eb5c8",
+            "id": "b55337748c7f9da7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mastering Data Structures & Algorithms using C and C++/Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.2 Tracing Example 1 - Recursion with an Ascending Action.md",
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/146. Access Struct Fields.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "46.2 Tracing Example 1 - Recursion with an Ascending Action"
+              "title": "146. Access Struct Fields"
             }
           }
         ]
@@ -73,12 +73,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "77db93b500bb04fd",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Gemini Scribe"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 390.5024719238281
+    "width": 296.50614166259766,
+    "collapsed": true
   },
   "right": {
     "id": "7851adcc0dd01f23",
@@ -169,60 +180,52 @@
       "gemini-scribe:Open Gemini Chat": false
     }
   },
-  "active": "c16f216c8de91cf8",
+  "active": "b55337748c7f9da7",
   "lastOpenFiles": [
-    "Mastering Data Structures & Algorithms using C and C++/Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.1 Fundamentals of Recursion.md",
-    "Mastering Data Structures & Algorithms using C and C++/Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/46.0. How Recursion Works (Tracing).md",
-    "Mastering Data Structures & Algorithms using C and C++/Section 5 Recursion/46-47 - How Recursion Works ( Tracing )/47. Generalising Recursion.md",
-    "Flutter/development/flutter/packages/flutter_tools/templates/module/android/host_app_common/app.tmpl/src/main/java/androidIdentifier/host/MainActivity.java.tmpl",
-    "Flutter/development/flutter/packages/integration_test/example/android/app/src/androidTest/java/com/example/integration_test_example/FlutterActivityWithPermissionTest.java",
-    "Flutter/development/flutter/packages/integration_test/example/android/app/src/androidTest/java/com/example/integration_test_example/FlutterActivityTest.java",
-    "Flutter/development/flutter/packages/flutter_tools/templates/module/android/host_app_common/app.tmpl/src/main/res/values/styles.xml",
-    "Flutter/development/flutter/packages/flutter_tools/templates/module/android/host_app_common/app.tmpl/src/main/res/mipmap-hdpi/ic_launcher.png",
-    "Flutter/development/flutter/packages/flutter_tools/templates/module/android/host_app_common/app.tmpl/src/main/res/drawable/launch_background.xml",
-    "Flutter/development/flutter/packages/flutter_tools/templates/module/android/host_app_common/app.tmpl/src/main/java/androidIdentifier/host",
-    "Flutter/development/flutter/packages/integration_test/android/src/main/java/dev/flutter/plugins/integration_test/IntegrationTestPlugin.java",
-    "Flutter/development/flutter/packages/integration_test/android/src/main/java/dev/flutter/plugins/integration_test/FlutterTestRunner.java",
-    "Flutter/development/flutter/packages/integration_test/android/src/main/java/dev/flutter/plugins/integration_test/FlutterDeviceScreenshot.java",
-    "Flutter/development/flutter/packages/integration_test/android/src/test/java/dev/flutter/plugins/integration_test/FlutterDeviceScreenshotTest.java",
-    "Flutter/development/flutter/packages/flutter_tools/templates/app/android.tmpl/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
-    "Flutter/development/flutter/packages/flutter_tools/templates/app/android.tmpl/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
-    "Flutter/development/flutter/packages/flutter_tools/templates/app/android.tmpl/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
-    "Flutter/development/flutter/packages/flutter_tools/templates/app/android.tmpl/app/src/main/res/mipmap-mdpi/ic_launcher.png",
-    "Flutter/development/flutter/packages/flutter_tools/templates/app/android.tmpl/app/src/main/res/mipmap-hdpi/ic_launcher.png",
-    "Flutter/development/flutter/packages/integration_test/example/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
-    "Flutter/development/flutter/packages/integration_test/example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
-    "Flutter/development/flutter/packages/integration_test/example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
-    "Flutter/development/flutter/packages/integration_test/example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
-    "Flutter/development/flutter/packages/flutter_tools/templates/module/ios/host_app_ephemeral/Runner.tmpl/Assets.xcassets/LaunchImage.imageset/README.md",
-    "Flutter/development/flutter/packages/flutter_tools/templates/app/ios.tmpl/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
-    "Flutter/development/flutter/packages/integration_test/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
-    "Flutter/development/flutter/packages/flutter_tools/templates/module/ios/library/Flutter.tmpl/README.md",
-    "Flutter/development/flutter/packages/flutter_tools/templates/xcode/ios/custom_application_bundle/README.md",
-    "Flutter/development/flutter/packages/flutter_tools/lib/src/isolated/native_assets/README.md",
-    "Flutter/development/flutter/packages/flutter_tools/test/widget_preview_scaffold.shard/widget_preview_scaffold/README.md",
-    "Flutter/development/flutter/packages/flutter_tools/lib/src/reporting/README.md",
-    "Flutter/development/flutter/packages/flutter_tools/lib/src/debug_adapters/README.md",
-    "Flutter/development/flutter/packages/flutter_tools/lib/src/android/README.md",
-    "Flutter/development/flutter/packages/flutter/test/cupertino/material/README.md",
-    "Flutter/development/flutter/packages/flutter/lib/src/foundation/README.md",
-    "Flutter/development/flutter/packages/flutter_localizations/lib/src/l10n/README.md",
-    "Flutter/development/flutter/packages/flutter_test/lib/fix_data/README.md",
-    "Flutter/development/flutter/packages/flutter_driver/lib/fix_data/README.md",
-    "Flutter/development/flutter/packages/integration_test/test/data/README.md",
-    "Flutter/development/flutter/packages/integration_test/lib/fix_data/README.md",
-    "Flutter/development/flutter/packages/flutter_tools/templates/module/README.md",
-    "Flutter/development/flutter/packages/flutter_tools/test/integration.shard/README.md",
-    "Flutter/development/flutter/packages/flutter_tools/test/widget_preview_scaffold.shard/README.md",
-    "Flutter/development/flutter/packages/flutter_tools/test/web.shard/README.md",
-    "Flutter/development/flutter/packages/flutter_tools/test/commands.shard/README.md",
-    "Flutter/development/flutter/packages/flutter_tools/test/android_preview_integration.shard/README.md",
-    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
-    "NeetCode-Data Structure and Algorithms/Python/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
-    "NeetCode-Data Structure and Algorithms/Python/Neetcode150/0. Roadmap/0. Roadmap.canvas",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/145. Create a Struct Instance.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/146. Access Struct Fields.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 7 Reference and Borrowing/129.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/144. Define a Struct.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/143. Open Structs Project.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/142.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/142. Section Review.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/139. Mutable Array Slices.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/138. Deref Coercion with Array Slices.md",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9q4ze1yd5-0xwm989-d4373ani8mos8mg9919ckz2d3/dep-graph.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9q4ze1yd5-0xwm989-d4373ani8mos8mg9919ckz2d3/query-cache.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9q4ze1yd5-0xwm989-d4373ani8mos8mg9919ckz2d3/work-products.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9q4ze1yd5-0xwm989-d4373ani8mos8mg9919ckz2d3",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1ms261446zrlj/s-h9q4zh8q8f-041c0ot-07f6qb3m3ebt3x9fp4qjhnhsk/work-products.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1ms261446zrlj/s-h9q4zh8q8f-041c0ot-07f6qb3m3ebt3x9fp4qjhnhsk/etli50aefnu9wdw1nekmnbhpd.o",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1ms261446zrlj/s-h9q4zh8q8f-041c0ot-07f6qb3m3ebt3x9fp4qjhnhsk/query-cache.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1ms261446zrlj/s-h9q4zh8q8f-041c0ot-07f6qb3m3ebt3x9fp4qjhnhsk/e8utsiirzaljvgy3umeogteyx.o",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1ms261446zrlj/s-h9q4zh8q8f-041c0ot-07f6qb3m3ebt3x9fp4qjhnhsk/eap4gdf7nxqacm2hhjuj80q9e.o",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/137. Array Slices.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/136. String Slices as Function Parameters.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/135. Syntactic Shortcuts.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/134. String Slice Lengths.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/133. String Slices and String Literals.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/132. Create a String Slice from a String.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/119.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/119. Section Review.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/74. Explicit Return Values.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/72. Intro to Functions.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 7 Reference and Borrowing/129. Section Review.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 7 Reference and Borrowing/Untitled.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/73. Parameters and Arguments.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 7 Reference and Borrowing/121. Immutable and Mutable Reference Parameters.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/24. Range sum query 2D immutable.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/3. Hard/26. First Missing Positive.md",
+    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/9. Brick Wall.md",
     "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/0. Roadmap/0. Roadmap.canvas",
+    "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
+    "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/0. Roadmap/0. Roadmap.canvas",
+    "NeetCode-Data Structure and Algorithms/Python/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
+    "NeetCode-Data Structure and Algorithms/Rust/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
     "Rust_DSA/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
     "Rust_DSA/Neetcode150/0. Roadmap/0. Roadmap.canvas",
+    "NeetCode-Data Structure and Algorithms/Python/Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "HTML-CSS-JavaScript_Workspace/DOM.canvas"
   ]
 }

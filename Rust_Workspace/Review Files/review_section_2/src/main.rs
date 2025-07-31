@@ -1,18 +1,9 @@
-
-
 fn main() {
-    let mut current_meal: String = String::new();
-    add_flour(&current_meal);
-    show_my_meal(&current_meal);
+    let first_name = {
+        let action_hero = "Arnold Schwarzenegger";
+        // Return a slice of the first 6 bytes.
+        &action_hero[0..6]
+    }; // `action_hero` goes out of scope here.
 
-
-}
-
-fn add_flour(meal: &mut String) {
-    meal.push_str("Add flour");
-    
-}
-
-fn show_my_meal(meal: &String) {
-    println!("Meal steps: {meal}");
+    println!("The first name is still valid: {}", first_name); // Prints "Arnold"
 }
