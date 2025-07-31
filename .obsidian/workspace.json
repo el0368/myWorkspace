@@ -22,90 +22,21 @@
             }
           },
           {
-            "id": "e95f043f49975339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/72. Intro to Functions.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "72. Intro to Functions"
-            }
-          },
-          {
             "id": "b55337748c7f9da7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/73. Parameters and Arguments.md",
-                "mode": "source",
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/142. Section Review.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "73. Parameters and Arguments"
-            }
-          },
-          {
-            "id": "397c3d701163b5e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/74. Explicit Return Values.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "74. Explicit Return Values"
-            }
-          },
-          {
-            "id": "fa633f36f2002e2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/75. Implicit Return Values.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "75. Implicit Return Values"
-            }
-          },
-          {
-            "id": "92bd7e7d2d8caa6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/76. The Unit as a Return Type.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "76. The Unit as a Return Type"
-            }
-          },
-          {
-            "id": "08d1417efb014b2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/77. Blocks in Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "77. Blocks in Functions"
+              "title": "142. Section Review"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,24 +194,36 @@
       "gemini-scribe:Open Gemini Chat": false
     }
   },
-  "active": "787cc516999dfd6b",
+  "active": "b55337748c7f9da7",
   "lastOpenFiles": [
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9papopyjg-0zi5xgn-eshaerg6pl5he0djd6uqqltix/work-products.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9papopyjg-0zi5xgn-eshaerg6pl5he0djd6uqqltix/query-cache.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9papopyjg-0zi5xgn-eshaerg6pl5he0djd6uqqltix/dep-graph.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9papopyjg-0zi5xgn-eshaerg6pl5he0djd6uqqltix",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9papopyjg-0zi5xgn-working/dep-graph.part.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9papopykc-112luq5-working/query-cache.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9papopykc-112luq5-working/dep-graph.part.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9papopykc-112luq5-working/work-products.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9papopykc-112luq5-working/dep-graph.bin",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-0rblnuf9f6fu7/s-h9papopykc-112luq5-working",
-    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9papopyjg-0zi5xgn-working/work-products.bin",
-    "Rust_Workspace/Learn to Code with Rust/Section 7 Reference and Borrowing/129. Section Review.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 7 Reference and Borrowing/129.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/139. Mutable Array Slices.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/142. Section Review.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/138. Deref Coercion with Array Slices.md",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9q4ze1yd5-0xwm989-d4373ani8mos8mg9919ckz2d3/dep-graph.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9q4ze1yd5-0xwm989-d4373ani8mos8mg9919ckz2d3/query-cache.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9q4ze1yd5-0xwm989-d4373ani8mos8mg9919ckz2d3/work-products.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1sne6v60tzv3w/s-h9q4ze1yd5-0xwm989-d4373ani8mos8mg9919ckz2d3",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1ms261446zrlj/s-h9q4zh8q8f-041c0ot-07f6qb3m3ebt3x9fp4qjhnhsk/work-products.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1ms261446zrlj/s-h9q4zh8q8f-041c0ot-07f6qb3m3ebt3x9fp4qjhnhsk/etli50aefnu9wdw1nekmnbhpd.o",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1ms261446zrlj/s-h9q4zh8q8f-041c0ot-07f6qb3m3ebt3x9fp4qjhnhsk/query-cache.bin",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1ms261446zrlj/s-h9q4zh8q8f-041c0ot-07f6qb3m3ebt3x9fp4qjhnhsk/e8utsiirzaljvgy3umeogteyx.o",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1ms261446zrlj/s-h9q4zh8q8f-041c0ot-07f6qb3m3ebt3x9fp4qjhnhsk/eap4gdf7nxqacm2hhjuj80q9e.o",
+    "Rust_Workspace/Review Files/review_section_2/target/debug/incremental/review_section_2-1ms261446zrlj/s-h9q4zh8q8f-041c0ot-07f6qb3m3ebt3x9fp4qjhnhsk/dep-graph.bin",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/137. Array Slices.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/136. String Slices as Function Parameters.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/135. Syntactic Shortcuts.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/134. String Slice Lengths.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/133. String Slices and String Literals.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 8 Slices/132. Create a String Slice from a String.md",
     "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/119.1.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 7 Reference and Borrowing/121. Immutable and Mutable Reference Parameters.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/119. Section Review.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 7 Reference and Borrowing/129.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/74. Explicit Return Values.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/72. Intro to Functions.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 7 Reference and Borrowing/129. Section Review.md",
     "Rust_Workspace/Learn to Code with Rust/Section 7 Reference and Borrowing/Untitled.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 4 Functions/73. Parameters and Arguments.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 7 Reference and Borrowing/121. Immutable and Mutable Reference Parameters.md",
     "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/24. Range sum query 2D immutable.md",
     "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/3. Hard/26. First Missing Positive.md",
     "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/9. Brick Wall.md",
@@ -289,18 +232,6 @@
     "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/7. Sort colors.md",
     "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/25. Non Decreasing array.md",
     "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/5. Encode and Decode Strings.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/4. Valid Sudoku.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/3. Product of array except self.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/23. Check if a String contains all binary codes of size K.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/22. Insert delete get random O(1).md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/21. repeated DNA sequences.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/20. push dominoes.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/2. Top K frequent elements.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/19. Continuous subarray sum.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/18. Largest Number.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/17. Wiggle sort.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/16. Find the index of the first occurrence in a String.md",
-    "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/1. Array & Hashing/2. Medium/15. Find all anagrams in a String.md",
     "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
     "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/0. Roadmap/0. Roadmap.canvas",
