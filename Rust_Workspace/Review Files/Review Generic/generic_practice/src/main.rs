@@ -1,27 +1,21 @@
+// A generic enum to represent a cheesesteak order.
 #[derive(Debug)]
-struct DaliSanwich {
-    ham: String
+struct User {
+    username: String,
+    email: String,
+    active: bool,
 }
 
 fn main() {
-    let result_any = identify_any::<f32>(8.36);
-    println!("{:?}", &result_any);
-
-    let my_sandwich = DaliSanwich {
-        ham : String::from("Serrano")
+    let mut user1 = User {
+        username: String::from("user123"),
+        email: String::from("user@example.com"),
+        active: true,
     };
 
-    let result_struct = identify_bool(my_sandwich.ham);
-    println!("{:?}", result_struct);
+    println!("{:#?}", user1.username);
+    user1.active = false;
+    user1.email = String::from("changed_email@example.com");
 
+    println!("{}", user1.email);
 }
-
-
-fn identify_any<T>(value: T) -> T {
-    value
-}
-
-fn identify_bool<T>(value: T) -> T {
-    value
-}
-

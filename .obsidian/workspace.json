@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust_Workspace/Learn to Code with Rust/Section 11 Generic/191. Generics in Enums.md",
+                "file": "c. BreathWork/Section 4 Prana Vidya (Knowledge of the Pranna)/22. Five Keys Fifth Key - Psychic Symbol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "22. Five Keys Fifth Key - Psychic Symbol"
+            }
+          },
+          {
+            "id": "78c10fa513a157e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 11 Generic/190. Generics and impl Blocks II.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "191. Generics in Enums"
+              "title": "190. Generics and impl Blocks II"
             }
           }
         ]
@@ -88,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.49999618530273
+    "width": 478.49999618530273
   },
   "right": {
     "id": "7851adcc0dd01f23",
@@ -179,44 +193,44 @@
       "gemini-scribe:Open Gemini Chat": false
     }
   },
-  "active": "c16f216c8de91cf8",
+  "active": "63b17cf740233c34",
   "lastOpenFiles": [
-    "Rust_Workspace/Learn to Code with Rust/Section 11 Generic/194. Section Review.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 11 Generic/191. Generics in Enums.md",
+    "c. BreathWork/Section 4 Prana Vidya (Knowledge of the Pranna)/21. Five Keys Fourth Key - Psychic Centres.md",
+    "c. BreathWork/Section 4 Prana Vidya (Knowledge of the Pranna)/22. Five Keys Fifth Key - Psychic Symbol.md",
+    "c. BreathWork/Section 4 Prana Vidya (Knowledge of the Pranna)/18. Five Keys First Key - Psychic Breath.md",
+    "c. BreathWork/Section 4 Prana Vidya (Knowledge of the Pranna)/19. Five Keys Second Key - Psychic Sound.md",
+    "c. BreathWork/Section 4 Prana Vidya (Knowledge of the Pranna)/20. Five Keys Third Key - Psychic Passage.md",
+    "c. BreathWork/Section 4 Prana Vidya (Knowledge of the Pranna)/17. Introduction of Prana Vidya.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/100. Intro to Ownership.md",
+    "c. BreathWork/Section 4 Prana Vidya (Knowledge of the Pranna)",
     "Rust_Workspace/Learn to Code with Rust/Section 11 Generic/190. Generics and impl Blocks II.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 11 Generic/189. Generics and impl Blocks I.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 3 Data Type/60. The Array Type.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 3 Data Type/44. Integers.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 3 Data Type/43. Intro to Data Types.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 11 Generic/188. Generics in Structs.md",
-    "Rust_Workspace/Review Files/Review Generic/generic_practice/target/debug/incremental/generic_practice-0gc9pbgjg0087/s-ha6n69t2tc-1h6ekyd-2dyt5kg1ax8ukj6trbfdyd3g9/work-products.bin",
-    "Rust_Workspace/Review Files/Review Generic/generic_practice/target/debug/incremental/generic_practice-0gc9pbgjg0087/s-ha6n69t2tc-1h6ekyd-2dyt5kg1ax8ukj6trbfdyd3g9/query-cache.bin",
-    "Rust_Workspace/Review Files/Review Generic/generic_practice/target/debug/incremental/generic_practice-0gc9pbgjg0087/s-ha6n69t2tc-1h6ekyd-2dyt5kg1ax8ukj6trbfdyd3g9/dep-graph.bin",
-    "Rust_Workspace/Review Files/Review Generic/generic_practice/target/debug/incremental/generic_practice-0gc9pbgjg0087/s-ha6n69t2tc-1h6ekyd-2dyt5kg1ax8ukj6trbfdyd3g9",
-    "Rust_Workspace/Learn to Code with Rust/Section 11 Generic/187. Multiple Generics.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/101. The Stack and Heap.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 6 Ownership/102. Scope and Ownership.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/143. Open Structs Project.md",
     "Rust_Workspace/Review Files/Review Generic/generic_practice/target/debug/deps/generic_practice.pdb",
     "Rust_Workspace/Review Files/Review Generic/generic_practice/target/debug/deps/generic_practice.exe",
-    "Rust_Workspace/Review Files/Review Generic/generic_practice/target/debug/incremental/generic_practice-1hf4fo8dvh81x/s-ha6n6b00mh-1u5t05v-0y0cwhoc59fi8enfj77yszg7b/egc7lfozaz08nm6rmr377rvc1.o",
-    "Rust_Workspace/Review Files/Review Generic/generic_practice/target/debug/incremental/generic_practice-1hf4fo8dvh81x/s-ha6n6b00mh-1u5t05v-0y0cwhoc59fi8enfj77yszg7b/work-products.bin",
-    "Rust_Workspace/Review Files/Review Generic/generic_practice/target/debug/incremental/generic_practice-1hf4fo8dvh81x/s-ha6n6b00mh-1u5t05v-0y0cwhoc59fi8enfj77yszg7b/query-cache.bin",
-    "Rust_Workspace/Review Files/Review Generic/generic_practice/target/debug/incremental/generic_practice-1hf4fo8dvh81x/s-ha6n6b00mh-1u5t05v-0y0cwhoc59fi8enfj77yszg7b/efl76hvfgq3m1h875o1jatbv0.o",
-    "Rust_Workspace/Learn to Code with Rust/Section 11 Generic/186. The Turbofish Operator.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 11 Generic/185. Intro to Generics.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 11 Generic/194.1.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 10 Enum/183.1.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 10 Enum/183. Section Review.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/165.1.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/165. Section Review.md",
-    "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/7. Stack/Untitled.md",
-    "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/1. Arrays/0. Arrays - prerequisites.md",
-    "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/2. Linked Lists/0. Link List - pre-requisite.md",
-    "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/3. Queues/0. Queues - pre-requisite.md",
-    "a. Computer Science/Roadmap.sh/0. Computer Science Roadmap/0. Computer Science Roadmap.md",
-    "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/5. Trees/1. Heaps.md",
-    "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/5. Trees/0. Binary Search Trees.md",
-    "a. Computer Science/Roadmap.sh/0..md",
-    "a. Computer Science/Untitled.md",
-    "a. Computer Science/Roadmap.sh/1.md",
+    "Rust_Workspace/Review Files/Review Generic/generic_practice/target/debug/incremental/generic_practice-1hf4fo8dvh81x/s-ha7w0l6hpe-1iiuguh-3fcmv7pkozs581vowzfeu66qw/work-products.bin",
+    "Rust_Workspace/Review Files/Review Generic/generic_practice/target/debug/incremental/generic_practice-1hf4fo8dvh81x/s-ha7w0l6hpe-1iiuguh-3fcmv7pkozs581vowzfeu66qw/egc7lfozaz08nm6rmr377rvc1.o",
+    "Rust_Workspace/Review Files/Review Generic/generic_practice/target/debug/incremental/generic_practice-1hf4fo8dvh81x/s-ha7w0l6hpe-1iiuguh-3fcmv7pkozs581vowzfeu66qw/efl76hvfgq3m1h875o1jatbv0.o",
+    "Rust_Workspace/Review Files/Review Generic/generic_practice/target/debug/incremental/generic_practice-1hf4fo8dvh81x/s-ha7w0l6hpe-1iiuguh-3fcmv7pkozs581vowzfeu66qw/query-cache.bin",
+    "Rust_Workspace/Review Files/Review Generic/generic_practice/target/debug/incremental/generic_practice-1hf4fo8dvh81x/s-ha7w0l6hpe-1iiuguh-3fcmv7pkozs581vowzfeu66qw/dtxna2a8f2yn72qlcxnuscpzv.o",
+    "Rust_Workspace/Review Files/Review Generic/generic_practice/target/debug/incremental/generic_practice-1hf4fo8dvh81x/s-ha7w0l6hpe-1iiuguh-3fcmv7pkozs581vowzfeu66qw/ds2v6x07ujeoznfljb56kzb9z.o",
+    "Rust_Workspace/Review Files/Review Generic/generic_practice/target/debug/incremental/generic_practice-1hf4fo8dvh81x/s-ha7w0l6hpe-1iiuguh-3fcmv7pkozs581vowzfeu66qw/cu3qu656oax0mm7g5lheerrqr.o",
+    "Rust_Workspace/Learn to Code with Rust/Section 10 Enum/0.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 10 Enum/168. Enum with Associated Values I.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153. Defining Struct Methods.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/0. struct survival.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/Untitled/0.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/Untitled/6. Traits and Printing Structs.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/Untitled/3. Struct Fields and Ownership.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/Untitled/2. Struct Instantiation (Creating an Instance).md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/Untitled/1. Struct Definition and Types.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153.11.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153.7.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153.6.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153.5.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153.4.md",
     "NeetCode-Data Structure and Algorithms/Rust/1. Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "NeetCode-Data Structure and Algorithms/Rust/0. NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
     "NeetCode-Data Structure and Algorithms/Rust/Neetcode150/0. Roadmap/0. Roadmap.canvas",
