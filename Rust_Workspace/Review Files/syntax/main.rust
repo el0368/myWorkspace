@@ -1,3 +1,0 @@
-fn main() {
-    let my_literal: &str = "Hello";
-}
