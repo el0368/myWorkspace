@@ -1,21 +1,31 @@
-// A generic enum to represent a cheesesteak order.
-#[derive(Debug)]
-struct User {
-    username: String,
-    email: String,
-    active: bool,
+fn play(instrument_option: Option<&String>) {
+    match instrument_option {
+        Option::Some(instrument) => {
+            println!("{}", instrument);
+        },
+        Option::None => {
+            println!("Singing with my voice");
+        }
+        
+    }
 }
 
+
 fn main() {
-    let mut user1 = User {
-        username: String::from("user123"),
-        email: String::from("user@example.com"),
-        active: true,
-    };
 
-    println!("{:#?}", user1.username);
-    user1.active = false;
-    user1.email = String::from("changed_email@example.com");
+    let musical_instruments = vec![
+        String::from("Guita"),
+        String::from("Drums"),
+        String::from("Bass"),
+    ];
 
-    println!("{}", user1.email);
+    let bass = musical_instruments.get(0);
+    let invalid_instrument = musical_instruments.get(1);
+
+    play(bass);
+    play(invalid_instrument);
+
+
+
+
 }
