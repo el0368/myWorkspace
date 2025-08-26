@@ -1,31 +1,28 @@
-fn play(instrument_option: Option<&String>) {
-    match instrument_option {
-        Option::Some(instrument) => {
-            println!("{}", instrument);
-        },
-        Option::None => {
-            println!("Singing with my voice");
-        }
-        
-    }
-}
-
 
 fn main() {
 
-    let musical_instruments = vec![
-        String::from("Guita"),
-        String::from("Drums"),
-        String::from("Bass"),
-    ];
+    let pizza_diameters = vec![8, 10, 12, 14];
+    
+    let pepperoni = String::from("Pepperoni");
+    let mushroom = String::from("Mushroom");
+    let sausage = String::from("Sausage");
 
-    let bass = musical_instruments.get(0);
-    let invalid_instrument = musical_instruments.get(1);
+    let pizza_topping = vec![pepperoni, mushroom, sausage];
 
-    play(bass);
-    play(invalid_instrument);
+    let topping_reference = &pizza_topping[1];
+    println!("{:?}", topping_reference);
 
+    let option = pizza_topping.get(0);
+    match option {
+        Some(topping) => {
+            println!("{:?}", topping);
+        },
+         None => {
+            println!("No Value");
+        }
 
 
 
 }
+}
+
