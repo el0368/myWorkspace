@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust_Workspace/c. Core Concepts in Rust's Ownership System/0.2.9 Smart Pointers and Advanced Ownership.md",
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/154.6 Summarize.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.2.9 Smart Pointers and Advanced Ownership"
-            }
-          },
-          {
-            "id": "0025cb6c8d251082",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust_Workspace/Learn to Code with Rust/Section 16 HashMaps/264. Access a Value by Key.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "264. Access a Value by Key"
+              "title": "154.6 Summarize"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 507.49999618530273
+    "width": 378.49999618530273,
+    "collapsed": true
   },
   "right": {
     "id": "7851adcc0dd01f23",
@@ -194,44 +180,44 @@
       "gemini-scribe:Open Gemini Chat": false
     }
   },
-  "active": "0025cb6c8d251082",
+  "active": "4ee89717b48d7e7a",
   "lastOpenFiles": [
-    "Rust_Workspace/Learn to Code with Rust/Section 16 HashMaps/271.2 chatgpt.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 16 HashMaps/264. Access a Value by Key.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 16 HashMaps/271. Section Review.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 16 HashMaps/271.3 claude.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 16 HashMaps/263. Hash Maps and Ownership.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 16 HashMaps/261.1.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 16 HashMaps/261. Create a HashMap with new Function.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 16 HashMaps/262. The remove Method.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 16 HashMaps/Untitled.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 16 HashMaps/260. Open Hash Maps Project.md",
-    "a. Computer Science/Prerequisites to Data Structures/3. Types of Data Structures.md",
-    "Rust_Workspace/Projects/rust_practice/target/debug/deps/rust_practice.629sgutgkqzsdgziw50hbf8ds.rcgu.o",
-    "Rust_Workspace/Projects/rust_practice/target/debug/deps/rust_practice.pdb",
-    "Rust_Workspace/Projects/rust_practice/target/debug/deps/rust_practice.exe",
-    "Rust_Workspace/Projects/rust_practice/target/debug/deps/rust_practice.7xn4152meqqfegfjp61yrnxij.rcgu.o",
-    "Rust_Workspace/Projects/rust_practice/target/debug/deps/rust_practice.diwp34sbdri1utbsj7avrmci0.rcgu.o",
-    "Rust_Workspace/Projects/rust_practice/target/debug/deps/rust_practice.1hkj04lgyhoj3nawwa4j7iy3x.rcgu.o",
-    "Rust_Workspace/Projects/rust_practice/target/debug/deps/rust_practice.22r1urjcx5atrbllqzt7f0aev.rcgu.o",
-    "Rust_Workspace/Projects/rust_practice/target/debug/deps/rust_practice.e1n6prabv00wllhzi4k2yyxg1.rcgu.o",
-    "Rust_Workspace/Projects/rust_practice/target/debug/deps/rust_practice.47ts8zxx865ld755b9rswc6jz.rcgu.o",
-    "Rust_Workspace/Projects/rust_practice/target/debug/deps/rust_practice.6ppbbohzvvjoqs0pd9cxici36.rcgu.o",
-    "a. Computer Science/Prerequisites to Data Structures/3. Data Structure Definition & Advantages.md",
-    "a. Computer Science/Prerequisites to Data Structures/2. Data Types vs. Abstract Data Types.md",
-    "a. Computer Science/Prerequisites to Data Structures/2.1.md",
-    "a. Computer Science/Prerequisites to Data Structures/1. Introduction to Data Structure.md",
-    "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/2. Linked Lists/0.1 Grok link list.md",
-    "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/2. Linked Lists/0.2 Grok link list.md",
-    "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/2. Linked Lists/0.1.md",
-    "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/2. Linked Lists/0. Link List - pre-requisite.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 14 Project Structure/228. The Benefit of Namespaces.md",
-    "Rust_Workspace/c. Core Concepts in Rust's Ownership System/0.2.9 Smart Pointers and Advanced Ownership.md",
-    "Rust_Workspace/c. Core Concepts in Rust's Ownership System/0.2.8 Ownership and Data Structures.md",
-    "Rust_Workspace/c. Core Concepts in Rust's Ownership System/0.2 Core Concepts in Rust's Ownership System.md",
-    "Rust_Workspace/c. Core Concepts in Rust's Ownership System/0.2.6 Lifetime.md",
-    "Rust_Workspace/c. Core Concepts in Rust's Ownership System/0.2.5 Borrowing Rules (The Borrow Checker).md",
-    "Rust_Workspace/c. Core Concepts in Rust's Ownership System/0.2.11 Related Advanced Topics.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153.8 Summarize.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/154. self Parameter as Mutable Struct Instance.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/155. self Parameter as Immutable and Mutable References to Struct Instance.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/161. Tuple Structs.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/160.5 Verification and Final Summary.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/160.2 Defining Non-Chainable Methods (The Problem).md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/160.1 The Builder Pattern Concept & Initial Struct Setup.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/154.6 Summarize.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153. Defining Struct Methods.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153.7.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153.11.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/154.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/152. Deriving Debug Trait for Struct.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/152.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/151. Passing Structs into a Function.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/151..md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/148. Create Structs in a Function.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/150.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/150. Struct Update Syntax.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/149. Struct Field Initialization Shorthand Syntax.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/147. Overwrite Struct Fields.md",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-3vfnhk30s97b9/s-hancnvgquz-0qeaykv-9oylcadyr0ey59tpcghfmwg2d/work-products.bin",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-3vfnhk30s97b9/s-hancnvgquz-0qeaykv-9oylcadyr0ey59tpcghfmwg2d/query-cache.bin",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-3vfnhk30s97b9/s-hancnvgquz-0qeaykv-9oylcadyr0ey59tpcghfmwg2d/dep-graph.bin",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-3vfnhk30s97b9/s-hancnvgquz-0qeaykv-9oylcadyr0ey59tpcghfmwg2d",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hancnvgqyw-03zfab5-bmo06dy4xyd5ivu339m050na0/query-cache.bin",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hancnvgqyw-03zfab5-bmo06dy4xyd5ivu339m050na0/work-products.bin",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hancnvgqyw-03zfab5-bmo06dy4xyd5ivu339m050na0/dep-graph.bin",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hancnvgqyw-03zfab5-bmo06dy4xyd5ivu339m050na0",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hancnvgqyw-03zfab5-working/dep-graph.part.bin",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hancnvgqyw-03zfab5-working/query-cache.bin",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/148.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/146.1 Copy trait.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153.2.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/146. Access Struct Fields.md",
     "Rust_Workspace/Review Files/rustling/website/static/images/rust_logo.svg",
     "Rust_Workspace/Review Files/rustling/website/static/images/panic.svg",
     "Rust_Workspace/Review Files/rustling/website/static/images/happy_ferris.svg",

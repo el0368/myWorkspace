@@ -1,35 +1,57 @@
-use std::collections::HashMap;
+#[derive(Debug)]
+struct Coffee {
+    name: String,
+    price: f64,
+    is_hot: bool,
+}
 
 fn main() {
-    // Create an empty HashMap using new()
-    let mut map: HashMap<String, i32> = HashMap::new();
-    
-    // Add some key-value pairs
-    map.insert("apple".to_string(), 5);
-    map.insert("banana".to_string(), 3);
-    map.insert("orange".to_string(), 8);
-    
-    // Print the HashMap
-    println!("HashMap: {:?}", map);
-    
-    // Access values
-    if let Some(value) = map.get("apple") {
-        println!("Apple count: {}", value);
+    let name = String::from("Latte");
+    println!("1. Created String in main: {}", name);
+
+    let coffee = make_coffee(name, 4.99, true);
+
+    println!("5. Final result in main: {:?}", coffee);
+
+
+    let espresso = make_coffee_shorthand(
+        String::from("Expresso"),
+        2.5,
+        true,
+    );
+
+    println!("Created with shorthand: {:?}", espresso);
+
+    let coffees = vec![
+        make_coffee_shorthand(String::from("Cappucino"), 3.75, true),
+        make_coffee_shorthand(String::from("Iced Coffee"), 3.25, true),
+        make_coffee_shorthand(String::from("Mocha"), 4.5, true),
+    ];
+
+    for coffee in &coffees {
+        println!("Coffee: {:?}", coffee);
     }
-    
-    // Another example with different types
-    let mut scores: HashMap<&str, u32> = HashMap::new();
-    scores.insert("Alice", 100);
-    scores.insert("Bob", 85);
-    scores.insert("Charlie", 92);
-    
-    println!("Scores: {:?}", scores);
-    
-    // Example with integer keys
-    let mut numbers: HashMap<i32, String> = HashMap::new();
-    numbers.insert(1, "One".to_string());
-    numbers.insert(2, "Two".to_string());
-    numbers.insert(3, "Three".to_string());
-    
-    println!("Numbers: {:?}", numbers);
+
 }
+
+fn make_coffee(name: String, price: f64, is_hot: bool) -> Coffee {
+
+    let coffee_instance = Coffee {
+        name: name,
+        price: price,
+        is_hot: is_hot,
+    };
+
+    coffee_instance
+}
+
+fn make_coffee_shorthand(name: String, price: f64, is_hot: bool) -> Coffee {
+
+    Coffee {
+        name,
+        price,
+        is_hot,
+    }
+}
+
+
