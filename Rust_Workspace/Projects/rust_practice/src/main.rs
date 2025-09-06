@@ -1,57 +1,42 @@
 #[derive(Debug)]
-struct Coffee {
-    name: String,
-    price: f64,
-    is_hot: bool,
+struct Node {
+    value: i32,
+    next: Option<Box<Node>>,
+}
+
+#[derive(Debug)]
+struct LinkedList {
+    head: Option<Box<Node>>,
+}
+
+impl LinkedList {
+    fn new() -> Self {
+        LinkedList { head: None }
+    }
+
+    fn push_font(&mut self, value: i32) {
+        let new_node = Box::new(Node {
+            value,
+            next: self.head.take(),
+        });
+        self.head = Some(new_node);
+    }
+
+    fn print(&self) {
+        let mut current = &self.head;
+        while let Some(node) = current {
+            print!("{} -> ", node.value);
+            current = &node.next;
+        }
+        println!("None");
+    }
+
+
 }
 
 fn main() {
-    let name = String::from("Latte");
-    println!("1. Created String in main: {}", name);
-
-    let coffee = make_coffee(name, 4.99, true);
-
-    println!("5. Final result in main: {:?}", coffee);
-
-
-    let espresso = make_coffee_shorthand(
-        String::from("Expresso"),
-        2.5,
-        true,
-    );
-
-    println!("Created with shorthand: {:?}", espresso);
-
-    let coffees = vec![
-        make_coffee_shorthand(String::from("Cappucino"), 3.75, true),
-        make_coffee_shorthand(String::from("Iced Coffee"), 3.25, true),
-        make_coffee_shorthand(String::from("Mocha"), 4.5, true),
-    ];
-
-    for coffee in &coffees {
-        println!("Coffee: {:?}", coffee);
-    }
-
+    let mut list = LinkedList::new();
+    list.push_font(1);
+    list.push_font(2);
+    list.print();
 }
-
-fn make_coffee(name: String, price: f64, is_hot: bool) -> Coffee {
-
-    let coffee_instance = Coffee {
-        name: name,
-        price: price,
-        is_hot: is_hot,
-    };
-
-    coffee_instance
-}
-
-fn make_coffee_shorthand(name: String, price: f64, is_hot: bool) -> Coffee {
-
-    Coffee {
-        name,
-        price,
-        is_hot,
-    }
-}
-
-

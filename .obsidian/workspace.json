@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ee89717b48d7e7a",
+            "id": "850f988224fb066e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/154.6 Summarize.md",
+                "file": "a. Computer Science/Prerequisites to Data Structures/3. Types of Data Structures.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "154.6 Summarize"
+              "title": "3. Types of Data Structures"
+            }
+          },
+          {
+            "id": "f30320f5d13e5124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust_Workspace/Learn to Code with Rust/Section 5 Control Flow/82. The if Statement.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "82. The if Statement"
             }
           }
         ]
@@ -88,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.49999618530273,
-    "collapsed": true
+    "width": 335.49999618530273
   },
   "right": {
     "id": "7851adcc0dd01f23",
@@ -180,44 +193,43 @@
       "gemini-scribe:Open Gemini Chat": false
     }
   },
-  "active": "4ee89717b48d7e7a",
+  "active": "850f988224fb066e",
   "lastOpenFiles": [
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153.8 Summarize.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/154. self Parameter as Mutable Struct Instance.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/155. self Parameter as Immutable and Mutable References to Struct Instance.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/161. Tuple Structs.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/160.5 Verification and Final Summary.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/160.2 Defining Non-Chainable Methods (The Problem).md",
+    "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/2. Linked Lists/3. three fundamental linked list types.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 5 Control Flow/82. The if Statement.md",
+    "Rust_Workspace/Projects/rust_practice/target/debug/deps/rust_practice.pdb",
+    "Rust_Workspace/Projects/rust_practice/target/debug/deps/rust_practice.exe",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-37t5fu1ozgiei/s-haut4r0jl2-1hy4usc-65xuf9sqqp2jv7xfzs3hk0w7j/work-products.bin",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-37t5fu1ozgiei/s-haut4r0jl2-1hy4usc-65xuf9sqqp2jv7xfzs3hk0w7j/query-cache.bin",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-37t5fu1ozgiei/s-haut4r0jl2-1hy4usc-65xuf9sqqp2jv7xfzs3hk0w7j/f2vw5o8nqc6rz7fcz08ssz2ck.o",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-37t5fu1ozgiei/s-haut4r0jl2-1hy4usc-65xuf9sqqp2jv7xfzs3hk0w7j/8dykmsg5bcr96qg0nfrhl6gnc.o",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-37t5fu1ozgiei/s-haut4r0jl2-1hy4usc-65xuf9sqqp2jv7xfzs3hk0w7j/dn3bizcyha5gamgw3eg67cvd9.o",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-37t5fu1ozgiei/s-haut4r0jl2-1hy4usc-65xuf9sqqp2jv7xfzs3hk0w7j/cmvdbtibgcc5bjas9i7vmiozk.o",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-37t5fu1ozgiei/s-haut4r0jl2-1hy4usc-65xuf9sqqp2jv7xfzs3hk0w7j/e7g8nqakdo9nfdx5687de3hsh.o",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-37t5fu1ozgiei/s-haut4r0jl2-1hy4usc-65xuf9sqqp2jv7xfzs3hk0w7j/dca150nyc4l1ih7kez1bqhyeq.o",
+    "Rust_Workspace/Learn to Code with Rust/Section 5 Control Flow/83. The else if Statement.md",
+    "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/2. Linked Lists/different ways to write a singly linked list.md",
+    "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/2. Linked Lists/0.3 Grok Link list - The best.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 10 Enum/168.1 Grok.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 10 Enum/173.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 10 Enum/173. The match Keyword I.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 10 Enum/178. The match Keyword V - match with Exact Value.md",
     "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/160.1 The Builder Pattern Concept & Initial Struct Setup.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/154.6 Summarize.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153. Defining Struct Methods.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153.7.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153.11.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/154.1.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153.1.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/152. Deriving Debug Trait for Struct.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/152.1.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/151. Passing Structs into a Function.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/151..md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/148. Create Structs in a Function.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/150.1.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/150. Struct Update Syntax.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/149. Struct Field Initialization Shorthand Syntax.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/147. Overwrite Struct Fields.md",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-3vfnhk30s97b9/s-hancnvgquz-0qeaykv-9oylcadyr0ey59tpcghfmwg2d/work-products.bin",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-3vfnhk30s97b9/s-hancnvgquz-0qeaykv-9oylcadyr0ey59tpcghfmwg2d/query-cache.bin",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-3vfnhk30s97b9/s-hancnvgquz-0qeaykv-9oylcadyr0ey59tpcghfmwg2d/dep-graph.bin",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-3vfnhk30s97b9/s-hancnvgquz-0qeaykv-9oylcadyr0ey59tpcghfmwg2d",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hancnvgqyw-03zfab5-bmo06dy4xyd5ivu339m050na0/query-cache.bin",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hancnvgqyw-03zfab5-bmo06dy4xyd5ivu339m050na0/work-products.bin",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hancnvgqyw-03zfab5-bmo06dy4xyd5ivu339m050na0/dep-graph.bin",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hancnvgqyw-03zfab5-bmo06dy4xyd5ivu339m050na0",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hancnvgqyw-03zfab5-working/dep-graph.part.bin",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hancnvgqyw-03zfab5-working/query-cache.bin",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/148.1.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/146.1 Copy trait.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/153.2.md",
-    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/146. Access Struct Fields.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/160.2 Defining Non-Chainable Methods (The Problem).md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/160.1.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/160.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/160. Builder Pattern.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/161. Tuple Structs.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/165. Section Review.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 10 Enum/168.2.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/154.6 Summarize from 154 - 154.5.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/154.5 Final Summary and Implications of mut self.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/154.3 The Consequence of Ownership Moves on Chained Calls This study guide explains a critical i.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/154.1 The Need for a Mutable self Parameter.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 9 Struct/154. self Parameter as Mutable Struct Instance.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 10 Enum/171.2.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 10 Enum/171.1.md",
+    "Rust_Workspace/Learn to Code with Rust/Section 10 Enum/170.2.md",
     "Rust_Workspace/Review Files/rustling/website/static/images/rust_logo.svg",
     "Rust_Workspace/Review Files/rustling/website/static/images/panic.svg",
     "Rust_Workspace/Review Files/rustling/website/static/images/happy_ferris.svg",
