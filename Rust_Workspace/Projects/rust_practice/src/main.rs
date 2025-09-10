@@ -1,7 +1,7 @@
 #[derive(Debug)]
 struct Node {
     value: i32,
-    next: Option<Box<Node>>,
+    next_node: Option<Box<Node>>,
 }
 
 #[derive(Debug)]
@@ -14,10 +14,10 @@ impl LinkedList {
         LinkedList { head: None }
     }
 
-    fn push_font(&mut self, value: i32) {
+    fn add_node(&mut self, value: i32) {
         let new_node = Box::new(Node {
             value,
-            next: self.head.take(),
+            next_node: self.head.take(),
         });
         self.head = Some(new_node);
     }
@@ -25,18 +25,16 @@ impl LinkedList {
     fn print(&self) {
         let mut current = &self.head;
         while let Some(node) = current {
-            print!("{} -> ", node.value);
-            current = &node.next;
+            print!("{} -> ", &node.value);
+            current = &node.next_node;
         }
-        println!("None");
+        print!("None");
     }
-
-
 }
 
 fn main() {
     let mut list = LinkedList::new();
-    list.push_font(1);
-    list.push_font(2);
+    list.add_node(1);
+    list.add_node(2);
     list.print();
 }
