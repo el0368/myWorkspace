@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust_Workspace/a. Learn to Code with Rust/Section 6 Ownership/99. Open Ownership Project.md",
+                "file": "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/2. Linked Lists/3. three fundamental linked list types.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "99. Open Ownership Project"
-            }
-          }
-        ]
-      },
-      {
-        "id": "bcaac9da3f0929f3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "850f988224fb066e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust_Workspace/a. Learn to Code with Rust/a. Grok Section Review/10. Grok Enum/8. Pattern Matching with match.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8. Pattern Matching with match"
+              "title": "3. three fundamental linked list types"
             }
           }
         ]
@@ -190,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -199,44 +180,44 @@
       "gemini-scribe:Open Gemini Chat": false
     }
   },
-  "active": "c16f216c8de91cf8",
+  "active": "e3649198ea3b54fc",
   "lastOpenFiles": [
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-3vfnhk30s97b9/s-haz36fs6fs-1khi5wm-awk9sznxxau3nsdzev5fuv0em/work-products.bin",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-3vfnhk30s97b9/s-haz36fs6fs-1khi5wm-awk9sznxxau3nsdzev5fuv0em/query-cache.bin",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-3vfnhk30s97b9/s-haz36fs6fs-1khi5wm-awk9sznxxau3nsdzev5fuv0em/dep-graph.bin",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-3vfnhk30s97b9/s-haz36fs6fs-1khi5wm-awk9sznxxau3nsdzev5fuv0em",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-37t5fu1ozgiei/s-haz36gwzvr-0b8upin-al98tpj824puiqohowtib1itv/work-products.bin",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-37t5fu1ozgiei/s-haz36gwzvr-0b8upin-al98tpj824puiqohowtib1itv/query-cache.bin",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-37t5fu1ozgiei/s-haz36gwzvr-0b8upin-al98tpj824puiqohowtib1itv/f2vw5o8nqc6rz7fcz08ssz2ck.o",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-37t5fu1ozgiei/s-haz36gwzvr-0b8upin-al98tpj824puiqohowtib1itv/dn3bizcyha5gamgw3eg67cvd9.o",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-37t5fu1ozgiei/s-haz36gwzvr-0b8upin-al98tpj824puiqohowtib1itv/e7g8nqakdo9nfdx5687de3hsh.o",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-37t5fu1ozgiei/s-haz36gwzvr-0b8upin-al98tpj824puiqohowtib1itv/dep-graph.bin",
-    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-37t5fu1ozgiei/s-haz36gwzvr-0b8upin-al98tpj824puiqohowtib1itv/bvakhb6qw2c0qos1y23slf8p5.o",
-    "Rust_Workspace/a. Learn to Code with Rust/Section 6 Ownership/100. Intro to Ownership.md",
-    "Rust_Workspace/a. Learn to Code with Rust/Section 6 Ownership/99. Open Ownership Project.md",
-    "Rust_Workspace/a. Learn to Code with Rust/Section 5 Control Flow/81. Open Control Flow Project.md",
-    "Rust_Workspace/a. Learn to Code with Rust/Section 4 Functions/71. Open Functions Project.md",
-    "Rust_Workspace/a. Learn to Code with Rust/Section 4 Functions/72. Intro to Functions.md",
-    "Rust_Workspace/a. Learn to Code with Rust/Section 12 Option and Result Enums/195.md",
-    "Rust_Workspace/a. Learn to Code with Rust/Section 13 Vectors/213. Open Vectors Project.md",
-    "Rust_Workspace/a. Learn to Code with Rust/Section 13 Vectors/214. Create a Vector.md",
-    "Rust_Workspace/a. Learn to Code with Rust/Section 15 String/251. Open Strings Project.md",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-3vfnhk30s97b9/s-hba9m6emac-189u4yh-am9g837sk9cme70cnehquvhw5/query-cache.bin",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-3vfnhk30s97b9/s-hba9m6emac-189u4yh-am9g837sk9cme70cnehquvhw5/work-products.bin",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-3vfnhk30s97b9/s-hba9m6emac-189u4yh-am9g837sk9cme70cnehquvhw5/dep-graph.bin",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-3vfnhk30s97b9/s-hba9m6emac-189u4yh-am9g837sk9cme70cnehquvhw5",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hba9m6emcn-0fjcce6-a98rhddelfhvu95owuh4saixw/dep-graph.bin",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hba9m6emcn-0fjcce6-a98rhddelfhvu95owuh4saixw/query-cache.bin",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hba9m6emcn-0fjcce6-a98rhddelfhvu95owuh4saixw/work-products.bin",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hba9m6emcn-0fjcce6-a98rhddelfhvu95owuh4saixw",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hba9m6emcn-0fjcce6-working/work-products.bin",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hba9m6emcn-0fjcce6-working/query-cache.bin",
+    "Rust_Workspace/Projects/rust_practice/target/debug/incremental/rust_practice-0f4n2b62dn9vz/s-hba9m6emcn-0fjcce6-working/dep-graph.part.bin",
+    "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/2. Linked Lists/4. Circular Singly Linked List.md",
+    "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/2. Linked Lists/different ways to write a singly linked list.md",
+    "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/2. Linked Lists/2. Link List.md",
+    "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/2. Linked Lists/1. Link list.md",
+    "Rust_Workspace/a. Learn to Code with Rust/Section 10 Enum/169.1 Grok.md",
+    "Rust_Workspace/a. Learn to Code with Rust/Section 10 Enum/168.1 Grok.md",
+    "Rust_Workspace/a. Learn to Code with Rust/Section 10 Enum/168. Enum with Associated Values I.md",
+    "Rust_Workspace/a. Learn to Code with Rust/Section 10 Enum/166. Open Enums Project.md",
+    "Rust_Workspace/a. Learn to Code with Rust/Section 11 Generic/184. Open Generics Project.md",
+    "Rust_Workspace/a. Learn to Code with Rust/Section 11 Generic/185. Intro to Generics.md",
+    "a. Computer Science/Roadmap.sh/1. Data Structure & Algorithms/2. Linked Lists/3. three fundamental linked list types.md",
+    "Rust_Workspace/a. Learn to Code with Rust/Section 9 Struct/150. Struct Update Syntax.md",
+    "Rust_Workspace/a. Learn to Code with Rust/Section 9 Struct/146. Access Struct Fields.md",
+    "Rust_Workspace/a. Learn to Code with Rust/Section 9 Struct/2. Using Struct and Impl Together - Complete Guide.md",
+    "Rust_Workspace/a. Learn to Code with Rust/Section 9 Struct/165.4 Mastering structs.md",
+    "Rust_Workspace/a. Learn to Code with Rust/Section 9 Struct/153.10 From 153.1 - 153.7.md",
     "Rust_Workspace/a. Learn to Code with Rust/Section 17 Error Handling/272. Open Error Handling Project.md",
-    "Rust_Workspace/a. Learn to Code with Rust/Section 17 Error Handling/286. Section Review.md",
-    "Rust_Workspace/a. Learn to Code with Rust/Section 18 Traits/287. Open Traits Project.md",
-    "Rust_Workspace/a. Learn to Code with Rust/Section 18 Traits/325. Section Review.md",
-    "Rust_Workspace/a. Learn to Code with Rust/Section 18 Traits/325.4 Grok.md",
-    "Rust_Workspace/a. Learn to Code with Rust/Section 18 Traits/288. Intro to Traits.md",
-    "Rust_Workspace/a. Learn to Code with Rust/a. Grok Section Review/18. Grok Traits/3. Trait Definition Syntax.md",
-    "Rust_Workspace/a. Learn to Code with Rust/a. Grok Section Review/18. Grok Traits/1. Definition and Purpose of Traits.md",
-    "Rust_Workspace/a. Learn to Code with Rust/Section 5 Control Flow/98.2 Grok.md",
-    "Rust_Workspace/a. Learn to Code with Rust/Section 17 Error Handling/286.4 Grok.md",
-    "Rust_Workspace/a. Learn to Code with Rust/a. Grok Section Review/16. Grok HashMaps/6. Accessing Hash Map Values (`square bracket`, `get`).md",
-    "Rust_Workspace/a. Learn to Code with Rust/a. Grok Section Review/16. Grok HashMaps/5. Mutation Methods (`insert`, `remove`, `entry`, `or_insert`).md",
-    "Rust_Workspace/a. Learn to Code with Rust/a. Grok Section Review/16. Grok HashMaps/3. Creating a Hash Map.md",
-    "Rust_Workspace/a. Learn to Code with Rust/a. Grok Section Review/11. Grok Generic/6. Defining Methods for Generic Types in `impl` Blocks.md",
-    "Rust_Workspace/a. Learn to Code with Rust/a. Grok Section Review/11. Grok Generic/5. Use Cases for Generics in Enums.md",
-    "Rust_Workspace/a. Learn to Code with Rust/a. Grok Section Review/11. Grok Generic/4. Use Cases for Generics in Structs.md",
+    "Rust_Workspace/a. Learn to Code with Rust/Section 16 HashMaps/260. Open Hash Maps Project.md",
+    "Rust_Workspace/a. Learn to Code with Rust/Section 16 HashMaps/261. Create a HashMap with new Function.md",
+    "Rust_Workspace/a. Learn to Code with Rust/Section 16 HashMaps/261.1.md",
+    "Rust_Workspace/a. Learn to Code with Rust/a. Grok Section Review/10. Grok Enum/10. The _ Catchall in match.md",
+    "Rust_Workspace/a. Learn to Code with Rust/a. Grok Section Review/10. Grok Enum/11. Methods on Enums.md",
+    "Rust_Workspace/a. Learn to Code with Rust/a. Grok Section Review/10. Grok Enum/12. if let Construct.md",
+    "Rust_Workspace/a. Learn to Code with Rust/a. Grok Section Review/10. Grok Enum/2. Enum Declaration Syntax.md",
+    "Rust_Workspace/a. Learn to Code with Rust/a. Grok Section Review/10. Grok Enum/1. Definition and Purpose of Enums.md",
     "Rust_Workspace/Review Files/rustling/website/static/images/rust_logo.svg",
     "Rust_Workspace/Review Files/rustling/website/static/images/panic.svg",
     "Rust_Workspace/Review Files/rustling/website/static/images/happy_ferris.svg",
