@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/28. Day 1 - OpenAI Agents SDK Fundamentals Creating, Tracing, and Running Agents.md",
+                "file": "a. Elixir/Section 2 - Functional Foundations and the Elixir way/9. Pattern Matching Basics.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28. Day 1 - OpenAI Agents SDK Fundamentals Creating, Tracing, and Running Agents"
+              "title": "9. Pattern Matching Basics"
+            }
+          },
+          {
+            "id": "04c151ad7c76fd50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/4. 41-44 Week 2 Day 4.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. 41-44 Week 2 Day 4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 617.4999961853027
+    "width": 457.49999618530273
   },
   "right": {
     "id": "7851adcc0dd01f23",
@@ -171,44 +186,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18ef8ebc517bb127",
+  "active": "c16f216c8de91cf8",
   "lastOpenFiles": [
-    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/27. Day 1 - Understanding Async Python The Foundation for OpenAI Agents SDK.md",
-    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/30. Day 1 - Vibe Coding 5 Essential Tips for Efficient Code Generation with LLMs.md",
-    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/31. END Day 1 - OpenAI Agents SDK- Understanding Core Concepts for AI Development.md",
+    "AI Fundamental",
     "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/32. Day 2 - Build AI Sales Agents with SendGrid- Tools & Collaboration in Agent SDK.md",
-    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/34.1.md",
-    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/35. Day 2 - Agent Control Flow- When to Use Handoffs vs. Agents as Tools.md",
-    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/34. Day 2 - Converting Agents into Tools Building Hierarchical AI Systems.md",
-    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/33.1.md",
-    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/33. Day 2 - Concurrent LLM Calls Implementing Asyncio for Parallel Agent Execution.md",
-    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/33. Day 2.md",
-    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/32.2 Day 2.md",
     "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/32.1 Day 2.md",
-    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/36. Day 2 - From Function Calls to Agent Autonomy- Sales Automation with OpenAI SDK.md",
+    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/34.1.md",
+    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/34. Day 2 - Converting Agents into Tools Building Hierarchical AI Systems.md",
+    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/35. Day 2 - Agent Control Flow- When to Use Handoffs vs. Agents as Tools.md",
     "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/38. Day 3- Multi-Model Integration Using Gemini, DeepSeek & Groq with OpenAI Agents.md",
-    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/29. Day 1 - Introduction to Agent, Runner, and Trace Classes in OpenAI Agents SDK.md",
-    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/28. Day 1 - OpenAI Agents SDK Fundamentals Creating, Tracing, and Running Agents.md",
-    "a. Elixir/AI in Elixir.md",
-    "a. Elixir/Phase 1 The Functional Foundation (Weeks 1–2)/Module 1.md",
-    "a. Elixir/Phase 1 The Functional Foundation (Weeks 1–2)/Module 2.md",
+    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2/36. Day 2 - From Function Calls to Agent Autonomy- Sales Automation with OpenAI SDK.md",
+    "a. Elixir/Elixir AI ecosystem.md",
+    "0.2 Fundamentals of Network Engineering/Section 3 Internet Protocal (IP)/12. Capturing IP, ARP and ICMP Packets with TCPDUMP.md",
+    "0.2 Fundamentals of Network Engineering/Section 3 Internet Protocal (IP)/11. ARP.md",
+    "0.2 Fundamentals of Network Engineering/Section 3 Internet Protocal (IP)/10. ICMP, PING, TraceRoute.md",
+    "0.2 Fundamentals of Network Engineering/Section 3 Internet Protocal (IP)/9. IP Packet.md",
+    "0.2 Fundamentals of Network Engineering/Section 3 Internet Protocal (IP)/8. The IP Building Blocks.md",
+    "0.2 Fundamentals of Network Engineering/Section 2 Fundamental of networking/7. Host to Host communication.md",
+    "0.2 Fundamentals of Network Engineering/Section 2 Fundamental of networking/6. OSI Model.md",
+    "0.2 Fundamentals of Network Engineering/Section 2 Fundamental of networking/5. Client - Server Architecture.md",
+    "a. Elixir/Elixir & Phoenix Foundation - The 2026 Masterclass/Curriculum.md",
+    "a. Elixir/Section 2 - Functional Foundations and the Elixir way/8.2 code.md",
+    "a. Elixir/Section 2 - Functional Foundations and the Elixir way/9.2 code.md",
+    "a. Elixir/Section 2 - Functional Foundations and the Elixir way/9.1.md",
+    "a. Elixir/Section 2 - Functional Foundations and the Elixir way/9. Pattern Matching Basics.md",
+    "a. Elixir/Section 2 - Functional Foundations and the Elixir way/8. Immutability and Pure Functions.md",
+    "a. Elixir/Section 2 - Functional Foundations and the Elixir way/8.1.md",
+    "a. Elixir/Section 1 - From Erlang Root to Elixir's Rise/4. Elixir Syntax, Macros, and Functional Style.md",
+    "a. Elixir/Section 1 - From Erlang Root to Elixir's Rise/3. José Valim and the Genesis of Elixir.md",
+    "a. Elixir/Section 2 - Functional Foundations and the Elixir way",
+    "a. Elixir/Section 1 - From Erlang Root to Elixir's Rise",
+    "a. Elixir/Elixir & Phoenix Foundation - The 2026 Masterclass",
+    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/0",
     "a. Elixir/Phase 1 The Functional Foundation (Weeks 1–2)",
-    "a. Elixir/1.md",
     "a. Elixir",
-    "03. Svelte/begin/elixir vs python.md",
-    "03. Svelte/begin/Elixir ai agent ecosystem.md",
-    "03. Svelte/begin/don't need ai inside every tool.md",
-    "03. Svelte/begin/AI Agent.md",
-    "03. Svelte/begin/1. System Instructions.md",
-    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 1/1. Day 1 - Autonomous AI Agent Demo Using N8n to Control Smart Home Devices.md",
     "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 1",
     "a. AI Engineer Agentic Track - The Complete Agent & MCP Course/Week 2",
     "03. Svelte/begin",
     "03. Svelte",
-    "a. AI Engineer Agentic Track - The Complete Agent & MCP Course",
-    "Untitled.base",
-    "gemini-scribe/Prompts",
-    "gemini-scribe",
     "Rust_Workspace/Review Files/rustling/website/static/images/rust_logo.svg",
     "Rust_Workspace/Review Files/rustling/website/static/images/panic.svg",
     "Rust_Workspace/Review Files/rustling/website/static/images/happy_ferris.svg",
